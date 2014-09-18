@@ -1,22 +1,23 @@
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION"
+"Project-Id-Version: mailup2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-12 11:39+0200\n"
-"PO-Revision-Date: 2014-09-12 09:11+0200\n"
-"Last-Translator: Oscar Piacenza <piacenza@nweb.it>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: it\n"
+"PO-Revision-Date: 2014-09-18 09:34+0000\n"
+"Last-Translator: Carpani marco <marco.carpani@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/mailup2/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.12.0\n"
 "X-POOTLE-MTIME: 1410513109.000000\n"
 
 # ---------------------------------------
 # StatusMessages
-
 #: StatusMessages.lblNoErrori
 msgid "StatusMessages.lblNoErrori"
 msgstr "Messaggi spediti con successo a"
@@ -39,7 +40,6 @@ msgstr "Errori generici "
 
 # ---------------------------------------
 # dashboard_generic
-
 #: dashboard_generic.lblFunzioniCorrelate
 msgid "dashboard_generic.lblFunzioniCorrelate"
 msgstr "Funzioni correlate"
@@ -78,7 +78,6 @@ msgstr "Mostra le prime {0} liste"
 
 # ---------------------------------------
 # Dashboard_List
-
 #: Dashboard_List.MailUpTwitterAccount
 msgid "Dashboard_List.MailUpTwitterAccount"
 msgstr "MailUp"
@@ -209,14 +208,12 @@ msgstr "Utente"
 
 # ---------------------------------------
 # Dashboard_AccessList
-
 #: Dashboard_AccessList.lblBackToDashBoard
 msgid "Dashboard_AccessList.lblBackToDashBoard"
 msgstr "Torna alla home"
 
 # ---------------------------------------
 # Reputation
-
 #: Reputation.lblSottoTitolo
 msgid "Reputation.lblSottoTitolo"
 msgstr "Reputazione"
@@ -227,7 +224,6 @@ msgstr "Trend"
 
 # ---------------------------------------
 # PrefCenter
-
 #: PrefCenter.lblTitle
 msgid "PrefCenter.lblTitle"
 msgstr "Qui puoi personalizzare il Centro gestione profilo e scegliere quali azioni permettere ai tuoi destinatari. Clicca su \"Anteprima\" in basso per controllarlo, poi inseriscilo nelle tue email con il pulsante che trovi nel tab \"strumenti email\" quando crei i tuoi messaggi."
@@ -394,7 +390,6 @@ msgstr "Per poter visualizzare l'anteprima è necessario avere almeno un destina
 
 # ---------------------------------------
 # PrefCenter_TrackMessageEdit
-
 #: PrefCenter_TrackMessageEdit.lblTitle
 msgid "PrefCenter_TrackMessageEdit.lblTitle"
 msgstr "Modifica l'email che verrà recapitata ai destinatari"
@@ -417,7 +412,6 @@ msgstr "Salva"
 
 # ---------------------------------------
 # MyAutoprofileLinkDialog
-
 #: MyAutoprofileLinkDialog.lblAutoprofileForm
 msgid "MyAutoprofileLinkDialog.lblAutoprofileForm"
 msgstr "Form di autoprofilazione"
@@ -436,7 +430,6 @@ msgstr "Insert/Edit Autoprofile Link"
 
 # ---------------------------------------
 # form_show_filtri_categoria
-
 #: form_show_filtri_categoria.lblTitolo
 msgid "form_show_filtri_categoria.lblTitolo"
 msgstr "Filtri presenti in questa categoria"
@@ -467,7 +460,6 @@ msgstr "alta"
 
 # ---------------------------------------
 # wizard_messagetype
-
 #: wizard_messagetype.lblNuova
 msgid "wizard_messagetype.lblNuova"
 msgstr "Vuota"
@@ -530,7 +522,6 @@ msgstr "Carica il tuo contenuto da una pagina web, trasformalo in un messaggio e
 
 # ---------------------------------------
 # accetta_contratto
-
 #: accetta_contratto.chkAccetta
 msgid "accetta_contratto.chkAccetta"
 msgstr "Ho letto e accetto le condizioni sul servizio e le norme sulla privacy"
@@ -585,7 +576,6 @@ msgstr "Contratto"
 
 # ---------------------------------------
 # Social_Common
-
 #: Social_Common.lblSocialMessageScheduleState_1
 msgid "Social_Common.lblSocialMessageScheduleState_1"
 msgstr "Nuovo"
@@ -608,7 +598,6 @@ msgstr "Clicca per visualizzare lo stato del post"
 
 # ---------------------------------------
 # Social_Dashboard
-
 #: Social_Dashboard.lblTitolo
 msgid "Social_Dashboard.lblTitolo"
 msgstr "Ultime campagne"
@@ -703,7 +692,6 @@ msgstr "Ricarica"
 
 # ---------------------------------------
 # Social_AccountAlmostUp
-
 #: Social_AccountAlmostUp.lblExpiredAccount
 msgid "Social_AccountAlmostUp.lblExpiredAccount"
 msgstr "Account social da aggiornare"
@@ -754,7 +742,6 @@ msgstr "L'account sarà aggiornato.\\n\\nSei sicuro?"
 
 # ---------------------------------------
 # Social_ElencoPostInviati
-
 #: Social_ElencoPostInviati.lblSottoTitolo
 msgid "Social_ElencoPostInviati.lblSottoTitolo"
 msgstr "In questa tabella trovi tutte le campagne pubblicate. Puoi scegliere se crearne una copia per inviarle di nuovo o eliminarle."
@@ -861,7 +848,6 @@ msgstr "Statistiche"
 
 # ---------------------------------------
 # Social_ElencoPostSalvati
-
 #: Social_ElencoPostSalvati.lblSottoTitolo
 msgid "Social_ElencoPostSalvati.lblSottoTitolo"
 msgstr "In questa tabella trovi tutte le campagne salvate. Puoi scegliere se e quando inviarle oppure eliminarle dall'elenco."
@@ -920,7 +906,6 @@ msgstr "Modifica"
 
 # ---------------------------------------
 # Social_GestioneAccount
-
 #: Social_GestioneAccount.lblSottoTitolo
 msgid "Social_GestioneAccount.lblSottoTitolo"
 msgstr "Questa sezione permette di collegare l'applicazione Social ai tuoi account social."
@@ -1019,7 +1004,6 @@ msgstr "Scade tra {0} giorno/i"
 
 # ---------------------------------------
 # Social_GestioneCampagna
-
 #: Social_GestioneCampagna.lblMessaggio
 msgid "Social_GestioneCampagna.lblMessaggio"
 msgstr "Post"
@@ -1062,7 +1046,6 @@ msgstr "Non è permesso inviare la campagna"
 
 # ---------------------------------------
 # Social_WizardBreadCrumb
-
 #: Social_WizardBreadCrumb.lblTitoloStep1
 msgid "Social_WizardBreadCrumb.lblTitoloStep1"
 msgstr "Scegli i canali su cui pubblicare"
@@ -1077,7 +1060,6 @@ msgstr "Gestisci l'invio dei tuoi post"
 
 # ---------------------------------------
 # Social_WizardNav
-
 #: Social_WizardNav.lblEsci
 msgid "Social_WizardNav.lblEsci"
 msgstr "Salva e esci"
@@ -1096,7 +1078,6 @@ msgstr "Salva"
 
 # ---------------------------------------
 # Social_PostEditorContainer
-
 #: Social_PostEditorContainer.lblOpenAll
 msgid "Social_PostEditorContainer.lblOpenAll"
 msgstr "Apri tutti"
@@ -1107,7 +1088,6 @@ msgstr "Chiudi tutti"
 
 # ---------------------------------------
 # Social_PostEditor
-
 #: Social_PostEditor.lblTitle
 msgid "Social_PostEditor.lblTitle"
 msgstr "Titolo"
@@ -1154,7 +1134,6 @@ msgstr "Copiare il contenuto in tutti i messaggi della campagna?\\r\\n\\r\\nAtte
 
 # ---------------------------------------
 # Social_AccountSummary
-
 #: Social_AccountSummary.lblWall
 msgid "Social_AccountSummary.lblWall"
 msgstr "Profilo"
@@ -1169,7 +1148,6 @@ msgstr "L'account {0} risulta disattivato, <a class=\"textlink\" href=\"Gestione
 
 # ---------------------------------------
 # Social_SendManager
-
 #: Social_SendManager.lblStatoInvioSchedulato_Text
 msgid "Social_SendManager.lblStatoInvioSchedulato_Text"
 msgstr "Invio pianificato"
@@ -1212,7 +1190,6 @@ msgstr "Questo post sarà pubblicato entro 5 minuti dalla pressione del tasto \"
 
 # ---------------------------------------
 # Social_GestioneInvio
-
 #: Social_GestioneInvio.errAlreadySent
 msgid "Social_GestioneInvio.errAlreadySent"
 msgstr "Invio già effettuato. Impossibile modificare la pianificazione."
@@ -1223,7 +1200,6 @@ msgstr "Non è permesso inviare la campagna"
 
 # ---------------------------------------
 # Social_Statistiche
-
 #: Social_Statistiche.lblTabReport
 msgid "Social_Statistiche.lblTabReport"
 msgstr "Report"
@@ -1362,7 +1338,6 @@ msgstr "Visualizza il periodo"
 
 # ---------------------------------------
 # Social_CampaignReport
-
 #: Social_CampaignReport.lblFilterCampaignName
 msgid "Social_CampaignReport.lblFilterCampaignName"
 msgstr "Nome campagna"
@@ -1453,7 +1428,6 @@ msgstr "Campagna"
 
 # ---------------------------------------
 # Social_CampaignPopularity
-
 #: Social_CampaignPopularity.lblTotComments
 msgid "Social_CampaignPopularity.lblTotComments"
 msgstr "Commenti"
@@ -1468,7 +1442,6 @@ msgstr "Retweet"
 
 # ---------------------------------------
 # Social_CampaignClicks
-
 #: Social_CampaignClicks.lblTitleClicksGraph
 msgid "Social_CampaignClicks.lblTitleClicksGraph"
 msgstr "Azioni"
@@ -1499,7 +1472,6 @@ msgstr "Totale dei clic eseguiti su link che non portano a messaggi email"
 
 # ---------------------------------------
 # Social_NetworkClicks
-
 #: Social_NetworkClicks.lblClick
 msgid "Social_NetworkClicks.lblClick"
 msgstr "Azioni"
@@ -1510,7 +1482,6 @@ msgstr "Totale"
 
 # ---------------------------------------
 # Social_ConfiguraApp
-
 #: Social_ConfiguraApp.lblTitolo
 msgid "Social_ConfiguraApp.lblTitolo"
 msgstr "Configura applicazione"
@@ -1553,7 +1524,6 @@ msgstr "Chiave privata"
 
 # ---------------------------------------
 # Social_DettaglioCampagna
-
 #: Social_DettaglioCampagna.lblSottotitolo
 msgid "Social_DettaglioCampagna.lblSottotitolo"
 msgstr "Campagna:"
@@ -1568,14 +1538,12 @@ msgstr "La campagna non possiede messaggi associati ad account attivi"
 
 # ---------------------------------------
 # Social_ControlLineChart
-
 #: Social_ControlLineChart.lblLegenda
 msgid "Social_ControlLineChart.lblLegenda"
 msgstr "Legenda"
 
 # ---------------------------------------
 # Controls_PerfLineChart
-
 #: Controls_PerfLineChart.lblLegenda
 msgid "Controls_PerfLineChart.lblLegenda"
 msgstr "Legenda"
@@ -1602,7 +1570,6 @@ msgstr "Nessun dato disponibile"
 
 # ---------------------------------------
 # Controls_RecentSending
-
 #: Controls_RecentSending.lblTitolo
 msgid "Controls_RecentSending.lblTitolo"
 msgstr "Invii recenti"
@@ -1637,7 +1604,6 @@ msgstr "Messaggio Fax"
 
 # ---------------------------------------
 # Social_Errors
-
 #: Social_Errors.InvalidUrl
 msgid "Social_Errors.InvalidUrl"
 msgstr "URL non valido"
@@ -1664,7 +1630,6 @@ msgstr "Compilare tutti i campi obbligatori e verificare la lunghezza dei messag
 
 # ---------------------------------------
 # TagSelector
-
 #: TagSelector.lblName
 msgid "TagSelector.lblName"
 msgstr "Tag"
@@ -1703,7 +1668,6 @@ msgstr "Manca il nome del tag"
 
 # ---------------------------------------
 # EmailSenderSelector
-
 #: EmailSenderSelector.RequestConfirmation
 msgid "EmailSenderSelector.RequestConfirmation"
 msgstr "Verificalo adesso"
@@ -1746,7 +1710,6 @@ msgstr "Clicca qui per riceverne un'altra."
 
 # ---------------------------------------
 # SmsAliasSelector
-
 #: SmsAliasSelector.lblSceltaAlias
 msgid "SmsAliasSelector.lblSceltaAlias"
 msgstr "Scelta mittente SMS alfanumerico"
@@ -1805,7 +1768,6 @@ msgstr "Mittente non valido: può essere un testo (11 caratteri) oppure un numer
 
 # ---------------------------------------
 # GestioneIntegrazioni
-
 #: GestioneIntegrazioni.alert-no-applications
 msgid "GestioneIntegrazioni.alert-no-applications"
 msgstr "Nessuna applicazione definita"
@@ -2036,7 +1998,6 @@ msgstr "Integrazioni con altre applicazioni."
 
 # ---------------------------------------
 # tabs
-
 #: tabs.DevIntegrationManager
 msgid "tabs.DevIntegrationManager"
 msgstr "Sviluppatore"
@@ -2947,7 +2908,6 @@ msgstr "Integrazioni"
 
 # ---------------------------------------
 # ctrl_UpgradeSendMessage
-
 #: ctrl_UpgradeSendMessage.lblRiduciTempo
 msgid "ctrl_UpgradeSendMessage.lblRiduciTempo"
 msgstr "Ferma gli invii per gestirli. Per ridurre il tempo di invio, "
@@ -2974,7 +2934,6 @@ msgstr "Per ridurre il tempo di invio contatta il tuo riferimento commerciale."
 
 # ---------------------------------------
 # left
-
 #: left.lblStatsSms
 msgid "left.lblStatsSms"
 msgstr "SMS"
@@ -3765,7 +3724,6 @@ msgstr "Nuovo da BEE"
 
 # ---------------------------------------
 # GestoreContenutiEsterni
-
 #: GestoreContenutiEsterni.lblNome
 msgid "GestoreContenutiEsterni.lblNome"
 msgstr "Nome contenuto dinamico"
@@ -3872,7 +3830,6 @@ msgstr "Il formato del feed RSS non è supportato, si prega di controllare che i
 
 # ---------------------------------------
 # ElencoContenutiEsterni
-
 #: ElencoContenutiEsterni.lblConfirmDelete
 msgid "ElencoContenutiEsterni.lblConfirmDelete"
 msgstr "Sei sicuro?"
@@ -3979,7 +3936,6 @@ msgstr "Chiudi"
 
 # ---------------------------------------
 # PreviewContenutiEsterni
-
 #: PreviewContenutiEsterni.lblVisualizza
 msgid "PreviewContenutiEsterni.lblVisualizza"
 msgstr "Simula l'attivazione dei contenuti dinamici"
@@ -3998,14 +3954,12 @@ msgstr "Seleziona tutti"
 
 # ---------------------------------------
 # ctrlPrivacyAlert
-
 #: ctrlPrivacyAlert.lblNoPermesso
 msgid "ctrlPrivacyAlert.lblNoPermesso"
 msgstr "<b>La pagina contiene dati sensibili a cui non si ha accesso.</b><br><br> Per accedere alla pagina è necessario attivare un permesso specifico per questo utente. Contattare il proprio referente tecnico per ulteriori dettagli."
 
 # ---------------------------------------
 # SentUpdate
-
 #: SentUpdate.lblInvio
 msgid "SentUpdate.lblInvio"
 msgstr "Invio"
@@ -4056,7 +4010,6 @@ msgstr "Puoi modificare artificialmente il conteggio delle email inviate. Puoi u
 
 # ---------------------------------------
 # optout_options
-
 #: optout_options.lblTitolo
 msgid "optout_options.lblTitolo"
 msgstr "Disiscrizione"
@@ -4179,7 +4132,6 @@ msgstr "Utente già disiscritto."
 
 # ---------------------------------------
 # newsletter_translate
-
 #: newsletter_translate.lblRichiestaTraduzioni
 msgid "newsletter_translate.lblRichiestaTraduzioni"
 msgstr "Richiesta traduzioni"
@@ -4338,7 +4290,6 @@ msgstr "Non hai i permessi per visualizzare la pagina"
 
 # ---------------------------------------
 # ABTestingSetPage
-
 #: ABTestingSetPage.lblTitolo
 msgid "ABTestingSetPage.lblTitolo"
 msgstr "A/B test"
@@ -4533,7 +4484,6 @@ msgstr "Risultati"
 
 # ---------------------------------------
 # ABTestingResult
-
 #: ABTestingResult.lblType
 msgid "ABTestingResult.lblType"
 msgstr "Tipo:"
@@ -4624,7 +4574,6 @@ msgstr "Selezionare almeno un messaggio"
 
 # ---------------------------------------
 # ABTestingCommonLabels
-
 #: ABTestingCommonLabels.Status0
 msgid "ABTestingCommonLabels.Status0"
 msgstr "In costruzione"
@@ -4659,21 +4608,18 @@ msgstr "Manuale"
 
 # ---------------------------------------
 # select_fields
-
 #: select_fields.lblTitolo
 msgid "select_fields.lblTitolo"
 msgstr "Seleziona i campi dinamici"
 
 # ---------------------------------------
 # select_contenuti_dinamici
-
 #: select_contenuti_dinamici.lblTitolo
 msgid "select_contenuti_dinamici.lblTitolo"
 msgstr "Seleziona i contenuti dinamici"
 
 # ---------------------------------------
 # AssegnaCrediti
-
 #: AssegnaCrediti.btnSalva
 msgid "AssegnaCrediti.btnSalva"
 msgstr "Salva"
@@ -4732,7 +4678,6 @@ msgstr "I crediti assegnati sono maggiori dei crediti disponibili"
 
 # ---------------------------------------
 # change_password
-
 #: change_password.lblCambioPassword
 msgid "change_password.lblCambioPassword"
 msgstr "Cambio password"
@@ -4807,7 +4752,6 @@ msgstr "L'ho dimenticata"
 
 # ---------------------------------------
 # select_link_archived
-
 #: select_link_archived.pageTitle
 msgid "select_link_archived.pageTitle"
 msgstr "Inserisci link a..."
@@ -4866,7 +4810,6 @@ msgstr "Questa funzione permette di creare link verso pagine create in console e
 
 # ---------------------------------------
 # select_template
-
 #: select_template.lblTitle
 msgid "select_template.lblTitle"
 msgstr "Scegli modello"
@@ -4925,7 +4868,6 @@ msgstr "La selezione di un template comporta che il contenuto della email venga 
 
 # ---------------------------------------
 # select_footer_template
-
 #: select_footer_template.lblTitle
 msgid "select_footer_template.lblTitle"
 msgstr "Scegli modello"
@@ -4968,7 +4910,6 @@ msgstr "Francese"
 
 # ---------------------------------------
 # sub_box_preview
-
 #: sub_box_preview.lblTitle
 msgid "sub_box_preview.lblTitle"
 msgstr "Anteprima del box di iscrizione"
@@ -4979,7 +4920,6 @@ msgstr "Anteprima"
 
 # ---------------------------------------
 # report_history_spaceused
-
 #: report_history_spaceused.lblSpazioSottoscritto
 msgid "report_history_spaceused.lblSpazioSottoscritto"
 msgstr "Spazio sottoscritto"
@@ -5002,7 +4942,6 @@ msgstr "MB"
 
 # ---------------------------------------
 # ctrl_RiepilogoListe
-
 #: ctrl_RiepilogoListe.lblModifica
 msgid "ctrl_RiepilogoListe.lblModifica"
 msgstr "Modifica messaggio"
@@ -5169,7 +5108,6 @@ msgstr "---"
 
 # ---------------------------------------
 # WSSettings
-
 #: WSSettings.labelWS
 msgid "WSSettings.labelWS"
 msgstr "Web services"
@@ -5300,7 +5238,6 @@ msgstr "Pubblica la tua integrazione"
 
 # ---------------------------------------
 # Dettaglio_Invii
-
 #: Dettaglio_Invii.htElencoInvii
 msgid "Dettaglio_Invii.htElencoInvii"
 msgstr "Elenco invii"
@@ -5451,7 +5388,6 @@ msgstr "Gestione avanzata degli indirizzi"
 
 # ---------------------------------------
 # Dettaglio_Invii_SMS
-
 #: Dettaglio_Invii_SMS.lista
 msgid "Dettaglio_Invii_SMS.lista"
 msgstr "Lista"
@@ -5606,7 +5542,6 @@ msgstr "Mittente"
 
 # ---------------------------------------
 # Dettaglio_Invii_Messages
-
 #: Dettaglio_Invii_Messages.lblIndirizziNelGruppo
 msgid "Dettaglio_Invii_Messages.lblIndirizziNelGruppo"
 msgstr "Sposta/copia tutti gli indirizzi filtrati nel gruppo"
@@ -5761,7 +5696,6 @@ msgstr "Gestione avanzata degli indirizzi"
 
 # ---------------------------------------
 # LogInvii_SMS
-
 #: LogInvii_SMS.htElencoInvii
 msgid "LogInvii_SMS.htElencoInvii"
 msgstr "Elenco invii"
@@ -5888,7 +5822,6 @@ msgstr "http://www.mailup.it/statistiche-newsletter.htm"
 
 # ---------------------------------------
 # LogInvii_Messages
-
 #: LogInvii_Messages.htElencoInvii
 msgid "LogInvii_Messages.htElencoInvii"
 msgstr "Elenco invii"
@@ -6003,7 +5936,6 @@ msgstr "Incompleto"
 
 # ---------------------------------------
 # Crediti_SMS
-
 #: Crediti_SMS.titolo
 msgid "Crediti_SMS.titolo"
 msgstr "Crediti SMS"
@@ -6026,7 +5958,6 @@ msgstr "http://compro.mailup.it/productcart/pc/configurePrd.asp?idProduct=104"
 
 # ---------------------------------------
 # main
-
 #: main.tableheader
 msgid "main.tableheader"
 msgstr "Informazioni sul servizio"
@@ -6081,7 +6012,6 @@ msgstr "Crea nuova Lista"
 
 # ---------------------------------------
 # dboard_News
-
 #: dboard_News.tableheader
 msgid "dboard_News.tableheader"
 msgstr "Notizie sul servizio"
@@ -6100,7 +6030,6 @@ msgstr "Torna alla home"
 
 # ---------------------------------------
 # dboard_Sender
-
 #: dboard_Sender.lblTitle
 msgid "dboard_Sender.lblTitle"
 msgstr "Mittenti predefiniti per lista"
@@ -6159,7 +6088,6 @@ msgstr "Impostazioni grafico"
 
 # ---------------------------------------
 # dboard_Accessi
-
 #: dboard_Accessi.tableheader
 msgid "dboard_Accessi.tableheader"
 msgstr "Ultimi accessi"
@@ -6182,7 +6110,6 @@ msgstr "Ora"
 
 # ---------------------------------------
 # dboard_Configurazione
-
 #: dboard_Configurazione.tableheader
 msgid "dboard_Configurazione.tableheader"
 msgstr "Impostazioni"
@@ -6217,14 +6144,12 @@ msgstr "Gestione spazio"
 
 # ---------------------------------------
 # News_Archivio
-
 #: News_Archivio.lblBack
 msgid "News_Archivio.lblBack"
 msgstr "Indietro"
 
 # ---------------------------------------
 # nl_list
-
 #: nl_list.nome
 msgid "nl_list.nome"
 msgstr "Nome"
@@ -6279,7 +6204,6 @@ msgstr "Per poter eliminare la lista non devono essere presenti messaggi nella c
 
 # ---------------------------------------
 # form_upd_nl
-
 #: form_upd_nl.tooltipMittenteSMS
 msgid "form_upd_nl.tooltipMittenteSMS"
 msgstr "È visto da chi riceve il messaggio. Può essere sia un numero, che un testo. Nel caso di un numero (max 15 caratteri incluso il prefisso internazionale, es. 003933500100), il destinatario potrà fare \"Rispondi\". Se testuale, il limite è di 11 caratteri (sono ammessi solo i caratteri a-z e 0-9, senza spazi)."
@@ -7346,7 +7270,6 @@ msgstr "Per poter visualizzare l'anteprima è necessario avere almeno un destina
 
 # ---------------------------------------
 # lookupTbl
-
 #: lookupTbl.titoloListeDistr
 msgid "lookupTbl.titoloListeDistr"
 msgstr "Elenco Liste"
@@ -7397,7 +7320,6 @@ msgstr "campo"
 
 # ---------------------------------------
 # set_header
-
 #: set_header.titolo
 msgid "set_header.titolo"
 msgstr "Testata"
@@ -7452,7 +7374,6 @@ msgstr "Piè di pagina"
 
 # ---------------------------------------
 # set_footer
-
 #: set_footer.titolo
 msgid "set_footer.titolo"
 msgstr "Piè di pagina"
@@ -7539,7 +7460,6 @@ msgstr "Seconda parte"
 
 # ---------------------------------------
 # set_confirmation_mail
-
 #: set_confirmation_mail.lblNomeMittente
 msgid "set_confirmation_mail.lblNomeMittente"
 msgstr "Nome mittente"
@@ -7634,7 +7554,6 @@ msgstr "Link iscrizione"
 
 # ---------------------------------------
 # updImage
-
 #: updImage.titolo
 msgid "updImage.titolo"
 msgstr "Inserisci/aggiorna immagine"
@@ -7701,7 +7620,6 @@ msgstr "Selezionare un'immagine"
 
 # ---------------------------------------
 # set_optin_mail
-
 #: set_optin_mail.lblTabEmail
 msgid "set_optin_mail.lblTabEmail"
 msgstr "Email"
@@ -7792,7 +7710,6 @@ msgstr "Link disiscrizione"
 
 # ---------------------------------------
 # set_optin_sms
-
 #: set_optin_sms.lblTabEmail
 msgid "set_optin_sms.lblTabEmail"
 msgstr "Email"
@@ -7931,7 +7848,6 @@ msgstr "Superata la lunghezza massima dei caratteri per il messaggio"
 
 # ---------------------------------------
 # set_optout_mail
-
 #: set_optout_mail.titolo
 msgid "set_optout_mail.titolo"
 msgstr "Email ai disiscritti"
@@ -8022,7 +7938,6 @@ msgstr "ATTENZIONE! L'opzione di Notifica disiscrizione al destinatario non è a
 
 # ---------------------------------------
 # set_optin_page
-
 #: set_optin_page.titolo
 msgid "set_optin_page.titolo"
 msgstr "Pagina messaggi"
@@ -8157,7 +8072,6 @@ msgstr "Salva"
 
 # ---------------------------------------
 # sub_box_iscr
-
 #: sub_box_iscr.lista
 msgid "sub_box_iscr.lista"
 msgstr "Lista"
@@ -8264,7 +8178,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # sub_box
-
 #: sub_box.lblFunzioniCorrelate
 msgid "sub_box.lblFunzioniCorrelate"
 msgstr "Funzioni correlate"
@@ -8363,7 +8276,6 @@ msgstr "Attenzione: i moduli di base non sono modificabili."
 
 # ---------------------------------------
 # set_account
-
 #: set_account.btConferma
 msgid "set_account.btConferma"
 msgstr "Salva"
@@ -8526,7 +8438,6 @@ msgstr "Il campo password è richiesto"
 
 # ---------------------------------------
 # newsletter_archive_all
-
 #: newsletter_archive_all.lblElencoNl
 msgid "newsletter_archive_all.lblElencoNl"
 msgstr "Elenco newsletter per tutte le liste"
@@ -8677,7 +8588,6 @@ msgstr "Vuoi modificare il messaggio con l'editor standard?"
 
 # ---------------------------------------
 # newsletter_archive
-
 #: newsletter_archive.lista
 msgid "newsletter_archive.lista"
 msgstr "Lista"
@@ -8952,7 +8862,6 @@ msgstr "Opzioni messaggio"
 
 # ---------------------------------------
 # SMS_archive_all
-
 #: SMS_archive_all.titolo
 msgid "SMS_archive_all.titolo"
 msgstr "Archivio SMS"
@@ -9019,7 +8928,6 @@ msgstr "Elimina SMS"
 
 # ---------------------------------------
 # SMS_archive
-
 #: SMS_archive.lista
 msgid "SMS_archive.lista"
 msgstr "Lista"
@@ -9090,7 +8998,6 @@ msgstr "Cerca per tag"
 
 # ---------------------------------------
 # newsletter_stats
-
 #: newsletter_stats.htInviate
 msgid "newsletter_stats.htInviate"
 msgstr "Invii"
@@ -9361,7 +9268,6 @@ msgstr "Cerca per Tag"
 
 # ---------------------------------------
 # newsletter_stats_noteaperture
-
 #: newsletter_stats_noteaperture.pageTitle
 msgid "newsletter_stats_noteaperture.pageTitle"
 msgstr "Note aperture"
@@ -9376,7 +9282,6 @@ msgstr "http://compro.mailup.it/productcart/pc/viewPrd.asp?idcategory=38&amp;idp
 
 # ---------------------------------------
 # send_report2
-
 #: send_report2.titolo
 msgid "send_report2.titolo"
 msgstr "Storico invii"
@@ -9531,7 +9436,6 @@ msgstr "Nessun dato da esportare"
 
 # ---------------------------------------
 # Import_Report
-
 #: Import_Report.titolo
 msgid "Import_Report.titolo"
 msgstr "Report Importazioni"
@@ -9650,7 +9554,6 @@ msgstr "Email non valide"
 
 # ---------------------------------------
 # send_report2_details
-
 #: send_report2_details.filtroEmail
 msgid "send_report2_details.filtroEmail"
 msgstr "Cerca email"
@@ -9805,7 +9708,6 @@ msgstr "Dettaglio"
 
 # ---------------------------------------
 # detailed_report
-
 #: detailed_report.lista
 msgid "detailed_report.lista"
 msgstr "Lista"
@@ -10152,7 +10054,6 @@ msgstr "n.d"
 
 # ---------------------------------------
 # overall_report_html
-
 #: overall_report_html.title
 msgid "overall_report_html.title"
 msgstr "DATI"
@@ -10255,7 +10156,6 @@ msgstr "Ultimi 100 messaggi"
 
 # ---------------------------------------
 # form_ins_newsletter
-
 #: form_ins_newsletter.btSalvaComeModello
 msgid "form_ins_newsletter.btSalvaComeModello"
 msgstr "Salva come modello"
@@ -10514,7 +10414,6 @@ msgstr "Tracciamento automatico dei link abilitato, ma non hai selezionato nessu
 
 # ---------------------------------------
 # nl_preview
-
 #: nl_preview.preview
 msgid "nl_preview.preview"
 msgstr " "
@@ -10565,7 +10464,6 @@ msgstr "Attenzione: in caso di inoltro i contenuti dinamici non verranno visuali
 
 # ---------------------------------------
 # nl_overflow
-
 #: nl_overflow.Messaggio
 msgid "nl_overflow.Messaggio"
 msgstr "Il messaggio è stato salvato. Attenzione: il messaggio pesa XXX KB e supera la soglia prefissata di YYY KB. <b>Un messaggio pesante potrebbe risultare sgradito ai destinatari</b> ed inoltre il tempo per l'invio sarà superiore al normale. Per ridurre la dimensione <b>verifica che non vi siano allegati molto pesanti</b> e sostituiscili con un link al file. In alternativa, in caso di invio con immagini embedded, riduci il peso delle immagini inserite nel messaggio. L'invio è comunque possibile."
@@ -10584,7 +10482,6 @@ msgstr "Continua"
 
 # ---------------------------------------
 # form_upd_newsletter
-
 #: form_upd_newsletter.lblAddToTestGroup
 msgid "form_upd_newsletter.lblAddToTestGroup"
 msgstr "Aggiungi al gruppo TEST"
@@ -10911,7 +10808,6 @@ msgstr "Tracciamento automatico dei link abilitato, ma non hai selezionato nessu
 
 # ---------------------------------------
 # gestione_integrazioni
-
 #: gestione_integrazioni.lblElencoApplicazioni
 msgid "gestione_integrazioni.lblElencoApplicazioni"
 msgstr "Elenco applicazioni"
@@ -10930,7 +10826,6 @@ msgstr "Modifica"
 
 # ---------------------------------------
 # template_list
-
 #: template_list.elencoModelli
 msgid "template_list.elencoModelli"
 msgstr "Elenco Modelli"
@@ -11009,7 +10904,6 @@ msgstr "Siete sicuri di voler eliminare i template selezionati?"
 
 # ---------------------------------------
 # form_ins_template
-
 #: form_ins_template.lblHelpRSS
 msgid "form_ins_template.lblHelpRSS"
 msgstr "Come inserire feed RSS nella newsletter"
@@ -11068,7 +10962,6 @@ msgstr "Inserire il titolo del template."
 
 # ---------------------------------------
 # form_upd_template
-
 #: form_upd_template.lblHelpRSS
 msgid "form_upd_template.lblHelpRSS"
 msgstr "Come inserire feed RSS nella newsletter"
@@ -11123,7 +11016,6 @@ msgstr "Inserire il titolo del template."
 
 # ---------------------------------------
 # form_ins_group
-
 #: form_ins_group.tuttiGruppi
 msgid "form_ins_group.tuttiGruppi"
 msgstr "Elenco"
@@ -11186,7 +11078,6 @@ msgstr "Il campo nome è obbligatorio."
 
 # ---------------------------------------
 # group_list
-
 #: group_list.nuovoGruppo
 msgid "group_list.nuovoGruppo"
 msgstr "Nuovo"
@@ -11313,7 +11204,6 @@ msgstr "Iscritti"
 
 # ---------------------------------------
 # form_upd_group
-
 #: form_upd_group.modificaGruppo
 msgid "form_upd_group.modificaGruppo"
 msgstr "Modifica gruppo"
@@ -11344,7 +11234,6 @@ msgstr "Il campo Nome è obbligatorio."
 
 # ---------------------------------------
 # sub_groups_new
-
 #: sub_groups_new.nuovoGruppo
 msgid "sub_groups_new.nuovoGruppo"
 msgstr "Nuovo"
@@ -11503,7 +11392,6 @@ msgstr "Rimuovi"
 
 # ---------------------------------------
 # users_report_graph
-
 #: users_report_graph.lista
 msgid "users_report_graph.lista"
 msgstr "Lista:"
@@ -11546,7 +11434,6 @@ msgstr "Link cliccati per destinatario"
 
 # ---------------------------------------
 # time_views_report
-
 #: time_views_report.titolo
 msgid "time_views_report.titolo"
 msgstr "Grafico aperture / tempo"
@@ -11641,7 +11528,6 @@ msgstr "Note"
 
 # ---------------------------------------
 # click_views_report
-
 #: click_views_report.lista
 msgid "click_views_report.lista"
 msgstr "Lista"
@@ -11732,7 +11618,6 @@ msgstr "Conteggio clic"
 
 # ---------------------------------------
 # subscriptions_report
-
 #: subscriptions_report.titolo
 msgid "subscriptions_report.titolo"
 msgstr "Grafico iscrizioni"
@@ -11871,7 +11756,6 @@ msgstr "Gennaio;Febbraio;Marzo;Aprile;Maggio;Giugno;Luglio;Agosto;Settembre;Otto
 
 # ---------------------------------------
 # overall_report
-
 #: overall_report.lista
 msgid "overall_report.lista"
 msgstr "Lista"
@@ -11958,7 +11842,6 @@ msgstr "Visualizza legenda"
 
 # ---------------------------------------
 # cumulative_subscriptions_report
-
 #: cumulative_subscriptions_report.lista
 msgid "cumulative_subscriptions_report.lista"
 msgstr "Lista:"
@@ -12025,7 +11908,6 @@ msgstr "Gennaio;Febbraio;Marzo;Aprile;Maggio;Giugno;Luglio;Agosto;Settembre;Otto
 
 # ---------------------------------------
 # users_report
-
 #: users_report.altImgLista
 msgid "users_report.altImgLista"
 msgstr "Si sta operando in questa Lista"
@@ -12092,7 +11974,6 @@ msgstr "Ripristina"
 
 # ---------------------------------------
 # show_all_reports
-
 #: show_all_reports.titolo
 msgid "show_all_reports.titolo"
 msgstr "Grafici Principali"
@@ -12127,7 +12008,6 @@ msgstr "Stampa tutti i grafici"
 
 # ---------------------------------------
 # form_ins_newsletterFILE
-
 #: form_ins_newsletterFILE.titolo
 msgid "form_ins_newsletterFILE.titolo"
 msgstr "Nuovo messaggio da %%formType%%"
@@ -12286,7 +12166,6 @@ msgstr "Campi dinamici"
 
 # ---------------------------------------
 # form_upd_newsletterFile
-
 #: form_upd_newsletterFile.titolo
 msgid "form_upd_newsletterFile.titolo"
 msgstr "Modifica messaggio da file"
@@ -12405,7 +12284,6 @@ msgstr "news"
 
 # ---------------------------------------
 # bounce_log
-
 #: bounce_log.title
 msgid "bounce_log.title"
 msgstr "Elenco delle email ritornate"
@@ -12464,7 +12342,6 @@ msgstr "Data"
 
 # ---------------------------------------
 # bounce_log_details
-
 #: bounce_log_details.title
 msgid "bounce_log_details.title"
 msgstr "Dettagli della email ritornata"
@@ -12515,7 +12392,6 @@ msgstr "Data"
 
 # ---------------------------------------
 # new_subscribers
-
 #: new_subscribers.title
 msgid "new_subscribers.title"
 msgstr "Dati del destinatario"
@@ -12578,7 +12454,6 @@ msgstr "Gruppi"
 
 # ---------------------------------------
 # link_tracking
-
 #: link_tracking.lblLinkMap
 msgid "link_tracking.lblLinkMap"
 msgstr "Link map"
@@ -12697,7 +12572,6 @@ msgstr "al"
 
 # ---------------------------------------
 # link_tracking_detail
-
 #: link_tracking_detail.lblModifica
 msgid "link_tracking_detail.lblModifica"
 msgstr "Modifica"
@@ -12856,7 +12730,6 @@ msgstr "Data click"
 
 # ---------------------------------------
 # user_views_report
-
 #: user_views_report.lblGlossarioStatistiche
 msgid "user_views_report.lblGlossarioStatistiche"
 msgstr "Glossario statistiche"
@@ -13079,7 +12952,6 @@ msgstr "Se esporti i dati anagrafici relativi a un elevato numero di destinatari
 
 # ---------------------------------------
 # link_tracking_user
-
 #: link_tracking_user.iscritto
 msgid "link_tracking_user.iscritto"
 msgstr "Iscritto"
@@ -13106,7 +12978,6 @@ msgstr "Report grafico sul destinatario"
 
 # ---------------------------------------
 # move_view
-
 #: move_view.titolo
 msgid "move_view.titolo"
 msgstr "Spostamento iscritti"
@@ -13125,7 +12996,6 @@ msgstr "Si è verificato un errore."
 
 # ---------------------------------------
 # errorLogMain
-
 #: errorLogMain.notes
 msgid "errorLogMain.notes"
 msgstr "Seleziona il canale per il quale vuoi visualizzare i dati di manutenzione"
@@ -13172,7 +13042,6 @@ msgstr "Visualizza i log relativi all'invio di posta"
 
 # ---------------------------------------
 # errorLog
-
 #: errorLog.htEmail
 msgid "errorLog.htEmail"
 msgstr "Servizio"
@@ -13223,7 +13092,6 @@ msgstr "Posta"
 
 # ---------------------------------------
 # errorLog_SMS
-
 #: errorLog_SMS.htNumber
 msgid "errorLog_SMS.htNumber"
 msgstr "Numero"
@@ -13250,7 +13118,6 @@ msgstr "Elimina"
 
 # ---------------------------------------
 # form_filtro
-
 #: form_filtro.lblFunzioniCorrelate
 msgid "form_filtro.lblFunzioniCorrelate"
 msgstr "Funzioni correlate"
@@ -13629,7 +13496,6 @@ msgstr "Destinatario"
 
 # ---------------------------------------
 # form_filtro_attivita
-
 #: form_filtro_attivita.titolo
 msgid "form_filtro_attivita.titolo"
 msgstr "Imposta le condizioni:"
@@ -14104,7 +13970,6 @@ msgstr "Descrizione:"
 
 # ---------------------------------------
 # form_filtro_geo
-
 #: form_filtro_geo.titolo
 msgid "form_filtro_geo.titolo"
 msgstr "Imposta le condizioni:"
@@ -14563,7 +14428,6 @@ msgstr "Il nome della categoria non può essere vuoto"
 
 # ---------------------------------------
 # form_send_newsletter
-
 #: form_send_newsletter.lblNoRisultati
 msgid "form_send_newsletter.lblNoRisultati"
 msgstr "Non ci sono risultati per la tua ricerca. Modifica i parametri o usa il bottone ripristina per tornare all'elenco"
@@ -14682,7 +14546,6 @@ msgstr "Web services"
 
 # ---------------------------------------
 # SendSingleEmail
-
 #: SendSingleEmail.lblInserisciEmail
 msgid "SendSingleEmail.lblInserisciEmail"
 msgstr "Inserisci fino a 10 email separate da punto e virgola (;)"
@@ -14721,7 +14584,6 @@ msgstr "Attenzione: il messaggio non può essere inviato. È stato superato il m
 
 # ---------------------------------------
 # form_send_newsletter2
-
 #: form_send_newsletter2.lblSendSingleHelpAnchor
 msgid "form_send_newsletter2.lblSendSingleHelpAnchor"
 msgstr "La procedura consente l'invio fino a 10 indirizzi email separati da punto e virgola ;"
@@ -15236,7 +15098,6 @@ msgstr "L'indirizzo per le risposte non è corretto"
 
 # ---------------------------------------
 # form_send_SMS
-
 #: form_send_SMS.nomeNewsletter
 msgid "form_send_SMS.nomeNewsletter"
 msgstr "Oggetto"
@@ -15259,7 +15120,6 @@ msgstr "Invio test"
 
 # ---------------------------------------
 # SMSUSACommon
-
 #: SMSUSACommon.WarningSmsUsaKeyword
 msgid "SMSUSACommon.WarningSmsUsaKeyword"
 msgstr "Non è stata impostata la keyword della Lista corrente. Non è quindi possibile spedire SMS. Vai in Impostazioni Lista > Proprietà > Mittente."
@@ -15330,7 +15190,6 @@ msgstr "Errore generico"
 
 # ---------------------------------------
 # form_send_message
-
 #: form_send_message.titolo_2
 msgid "form_send_message.titolo_2"
 msgstr "Invia fax"
@@ -15369,7 +15228,6 @@ msgstr "Crea nuovo messaggio"
 
 # ---------------------------------------
 # SendSingleSMS
-
 #: SendSingleSMS.SMSSendSingleNumber
 msgid "SendSingleSMS.SMSSendSingleNumber"
 msgstr "Numero a cui inviare l'SMS"
@@ -15416,7 +15274,6 @@ msgstr "Invio singolo"
 
 # ---------------------------------------
 # form_send_SMS2
-
 #: form_send_SMS2.nessunaNL
 msgid "form_send_SMS2.nessunaNL"
 msgstr "Nessun SMS disponibile"
@@ -15755,7 +15612,6 @@ msgstr "Esiste già un invio non definito o annullato per questo messaggio. Even
 
 # ---------------------------------------
 # form_send_FAX2
-
 #: form_send_FAX2.nessunaNL
 msgid "form_send_FAX2.nessunaNL"
 msgstr "Nessun fax disponibile"
@@ -16094,7 +15950,6 @@ msgstr "Il campo fax è obbligatorio"
 
 # ---------------------------------------
 # view_bounces
-
 #: view_bounces.nota
 msgid "view_bounces.nota"
 msgstr "<b>Nota:</b> Nei ritorni visualizzati sono compresi quelli dei destinatari \"sospesi\""
@@ -16381,7 +16236,6 @@ msgstr "Selezionati: "
 
 # ---------------------------------------
 # view_bounces_detail
-
 #: view_bounces_detail.titolo
 msgid "view_bounces_detail.titolo"
 msgstr "Dettaglio ritorni"
@@ -16428,7 +16282,6 @@ msgstr "Dettagli"
 
 # ---------------------------------------
 # sub_list
-
 #: sub_list.lista
 msgid "sub_list.lista"
 msgstr "Lista"
@@ -16523,7 +16376,6 @@ msgstr "Ripristina"
 
 # ---------------------------------------
 # form_upd_sub
-
 #: form_upd_sub.nomeVisualizzato
 msgid "form_upd_sub.nomeVisualizzato"
 msgstr "Nome visualizzato"
@@ -16962,7 +16814,6 @@ msgstr "nessun invio email dal #FROM# al #TO#"
 
 # ---------------------------------------
 # sub_pending
-
 #: sub_pending.lista
 msgid "sub_pending.lista"
 msgstr "Lista"
@@ -17061,7 +16912,6 @@ msgstr "Totale iscritti"
 
 # ---------------------------------------
 # sub_pending_SMS
-
 #: sub_pending_SMS.lista
 msgid "sub_pending_SMS.lista"
 msgstr "Lista"
@@ -17156,7 +17006,6 @@ msgstr "Totale iscritti"
 
 # ---------------------------------------
 # optout_list
-
 #: optout_list.lista
 msgid "optout_list.lista"
 msgstr "Lista"
@@ -17339,7 +17188,6 @@ msgstr "Disiscritti totali divisi per motivo della disiscrizione"
 
 # ---------------------------------------
 # optout_list_SMS
-
 #: optout_list_SMS.lista
 msgid "optout_list_SMS.lista"
 msgstr "Lista"
@@ -17430,7 +17278,6 @@ msgstr "Ripristina"
 
 # ---------------------------------------
 # duplicates
-
 #: duplicates.titolo
 msgid "duplicates.titolo"
 msgstr "Duplicati"
@@ -17461,7 +17308,6 @@ msgstr "Seleziona"
 
 # ---------------------------------------
 # set_optout_page
-
 #: set_optout_page.titolo
 msgid "set_optout_page.titolo"
 msgstr "Conferma disiscrizione"
@@ -17540,7 +17386,6 @@ msgstr "Disiscrizione con conferma"
 
 # ---------------------------------------
 # sub_list_all
-
 #: sub_list_all.lblModificaImpostazioniDisiscrizione
 msgid "sub_list_all.lblModificaImpostazioniDisiscrizione"
 msgstr "Modifica opzioni di disiscrizione nelle proprietà della Lista"
@@ -17831,7 +17676,6 @@ msgstr "Scegli quali colonne mostrare"
 
 # ---------------------------------------
 # sub_list_adv
-
 #: sub_list_adv.lblReset
 msgid "sub_list_adv.lblReset"
 msgstr "Ripristina"
@@ -18114,7 +17958,6 @@ msgstr "Statistiche conteggio destinatari"
 
 # ---------------------------------------
 # sub_list_adv_SMS
-
 #: sub_list_adv_SMS.lista
 msgid "sub_list_adv_SMS.lista"
 msgstr "Lista"
@@ -18361,7 +18204,6 @@ msgstr "Ripristina"
 
 # ---------------------------------------
 # sub_list_adv_messages
-
 #: sub_list_adv_messages.htDataAddItem
 msgid "sub_list_adv_messages.htDataAddItem"
 msgstr "Aggiungi"
@@ -18624,7 +18466,6 @@ msgstr "Ripristina"
 
 # ---------------------------------------
 # move_bounces
-
 #: move_bounces.risultatoSpostamento
 msgid "move_bounces.risultatoSpostamento"
 msgstr "Operazione eseguita con successo. #cntUser# indirizzi spostati"
@@ -18635,7 +18476,6 @@ msgstr "Si è verificato un errore."
 
 # ---------------------------------------
 # move_sub
-
 #: move_sub.titolo
 msgid "move_sub.titolo"
 msgstr "Spostamento iscritti"
@@ -18662,7 +18502,6 @@ msgstr "Indirizzi copiati"
 
 # ---------------------------------------
 # form_ins_sub
-
 #: form_ins_sub.elencoGruppi
 msgid "form_ins_sub.elencoGruppi"
 msgstr "Elenco dei gruppi"
@@ -18869,7 +18708,6 @@ msgstr "La lunghezza massima consentita per i campi anagrafici è di 200 caratte
 
 # ---------------------------------------
 # page_msg
-
 #: page_msg.msg1
 msgid "page_msg.msg1"
 msgstr "Si sono verificati errori."
@@ -18916,7 +18754,6 @@ msgstr "Indirizzo email già presente nell'elenco dei disiscritti."
 
 # ---------------------------------------
 # confirmoptout
-
 #: confirmoptout.pageTitle1
 msgid "confirmoptout.pageTitle1"
 msgstr "Conferma rimozione"
@@ -18955,7 +18792,6 @@ msgstr "Titolo"
 
 # ---------------------------------------
 # confirmoptout_multiplo
-
 #: confirmoptout_multiplo.pageTitle1
 msgid "confirmoptout_multiplo.pageTitle1"
 msgstr "Modifica iscrizioni"
@@ -19010,7 +18846,6 @@ msgstr "Disiscritto"
 
 # ---------------------------------------
 # form_choose_import
-
 #: form_choose_import.tipoFile
 msgid "form_choose_import.tipoFile"
 msgstr "Scegli un tipo di importazione"
@@ -19141,7 +18976,6 @@ msgstr "Permette di aggiungere destinatari copiando e incollando i dati da un do
 
 # ---------------------------------------
 # form_export
-
 #: form_export.noRecipientToExport
 msgid "form_export.noRecipientToExport"
 msgstr "Nessun destinatario da esportare"
@@ -19348,7 +19182,6 @@ msgstr "Non hai i permessi per visualizzare la pagina"
 
 # ---------------------------------------
 # ExportCommon
-
 #: ExportCommon.lblKindOfFile0
 msgid "ExportCommon.lblKindOfFile0"
 msgstr "csv"
@@ -19411,7 +19244,6 @@ msgstr "Nessuno"
 
 # ---------------------------------------
 # exported
-
 #: exported.lblTitleExportCurrent
 msgid "exported.lblTitleExportCurrent"
 msgstr "Esportazioni in corso"
@@ -19486,7 +19318,6 @@ msgstr "Non hai i permessi per visualizzare la pagina"
 
 # ---------------------------------------
 # ExportRecipientDetail
-
 #: ExportRecipientDetail.lblTitle
 msgid "ExportRecipientDetail.lblTitle"
 msgstr "Dettaglio esportazione"
@@ -19537,7 +19368,6 @@ msgstr "Gruppo"
 
 # ---------------------------------------
 # form_import
-
 #: form_import.lista
 msgid "form_import.lista"
 msgstr "per la lista:"
@@ -19880,7 +19710,6 @@ msgstr "Ora"
 
 # ---------------------------------------
 # Import_InvalidRowsDetails
-
 #: Import_InvalidRowsDetails.lblTitleImportInvalidRowType
 msgid "Import_InvalidRowsDetails.lblTitleImportInvalidRowType"
 msgstr "Righe non importate per ##motivo"
@@ -20011,7 +19840,6 @@ msgstr "Errore nella creazione del file"
 
 # ---------------------------------------
 # form_import_step2
-
 #: form_import_step2.nomeFile
 msgid "form_import_step2.nomeFile"
 msgstr "Nome file:"
@@ -20170,7 +19998,6 @@ msgstr "Impossibile individuare un sepparatore per il file corrente."
 
 # ---------------------------------------
 # form_import_xml
-
 #: form_import_xml.lista
 msgid "form_import_xml.lista"
 msgstr "La lista selezionata è:"
@@ -20505,7 +20332,6 @@ msgstr "Si vuole riutilizzare il gruppo già presente? Ok per riutilizzarlo, Ann
 
 # ---------------------------------------
 # form_import_step2_xml
-
 #: form_import_step2_xml.titolo
 msgid "form_import_step2_xml.titolo"
 msgstr "Importazione iscritti"
@@ -20580,7 +20406,6 @@ msgstr "Riduci"
 
 # ---------------------------------------
 # do_import_csv
-
 #: do_import_csv.importazioneContatti
 msgid "do_import_csv.importazioneContatti"
 msgstr "Importazione contatti... Attendere prego..."
@@ -20663,7 +20488,6 @@ msgstr "Errore nel salvataggio della mappatura campi."
 
 # ---------------------------------------
 # do_import_xml
-
 #: do_import_xml.importazioneContatti
 msgid "do_import_xml.importazioneContatti"
 msgstr "Importazione contatti... Attendere prego..."
@@ -20718,7 +20542,6 @@ msgstr "Modalità inserimento numero cellulare non valida"
 
 # ---------------------------------------
 # queue
-
 #: queue.lblAnnullaModifica
 msgid "queue.lblAnnullaModifica"
 msgstr "Annulla Modifica"
@@ -20957,7 +20780,6 @@ msgstr "L'indirizzo del mittente non è stato confermato"
 
 # ---------------------------------------
 # queue_SMS
-
 #: queue_SMS.tooltipMittenteSMS
 msgid "queue_SMS.tooltipMittenteSMS"
 msgstr "È visto da chi riceve il messaggio. Può essere sia un numero, che un testo. Nel caso di un numero (max 15 caratteri incluso il prefisso internazionale, es. 003933500100), il destinatario potrà fare \"Rispondi\". Se testuale, il limite è di 11 caratteri (sono ammessi solo i caratteri a-z e 0-9, senza spazi)."
@@ -21264,7 +21086,6 @@ msgstr "I destinatari che non hanno ricevuto il messaggio di benvenuto, sono esc
 
 # ---------------------------------------
 # queue_FAX
-
 #: queue_FAX.tooltipMittenteSMS
 msgid "queue_FAX.tooltipMittenteSMS"
 msgstr "Inserire il mittente del fax. <br>Verrà visualizzato da chi riceve il messaggio. <br>Può essere sia un numero, che un testo. <br>Nel caso di un numero, l'utente potrà fare \"Rispondi\".<br>Nel caso di un numero il limite di caratteri è 15 mentre per un valore alfanumerico è 11."
@@ -21527,7 +21348,6 @@ msgstr "Gestione destinatari"
 
 # ---------------------------------------
 # Queue_DynFld_Export
-
 #: Queue_DynFld_Export.fileName
 msgid "Queue_DynFld_Export.fileName"
 msgstr "DettaglioCoda"
@@ -21542,7 +21362,6 @@ msgstr "Dati non disponibili"
 
 # ---------------------------------------
 # Queue_SMS_DynFld_Export
-
 #: Queue_SMS_DynFld_Export.fileName
 msgid "Queue_SMS_DynFld_Export.fileName"
 msgstr "DettaglioCoda"
@@ -21565,7 +21384,6 @@ msgstr "Dati non disponibili"
 
 # ---------------------------------------
 # Queue_Fax_DynFld_Export
-
 #: Queue_Fax_DynFld_Export.fileName
 msgid "Queue_Fax_DynFld_Export.fileName"
 msgstr "DettaglioCoda"
@@ -21580,7 +21398,6 @@ msgstr "Dati non disponibili"
 
 # ---------------------------------------
 # Scheduled_Import
-
 #: Scheduled_Import.Lista
 msgid "Scheduled_Import.Lista"
 msgstr "Lista"
@@ -22015,7 +21832,6 @@ msgstr "Accetta_Contratto.aspx?readonly=yes"
 
 # ---------------------------------------
 # schedulation
-
 #: schedulation.htDestinatari
 msgid "schedulation.htDestinatari"
 msgstr "Destinatari"
@@ -22402,7 +22218,6 @@ msgstr "L'invio non può essere pianificato o inviato subito: si tratta di un in
 
 # ---------------------------------------
 # schedulation_SMS
-
 #: schedulation_SMS.htNome
 msgid "schedulation_SMS.htNome"
 msgstr "Nome"
@@ -22693,7 +22508,6 @@ msgstr "Invio non pianificato"
 
 # ---------------------------------------
 # schedulation_FAX
-
 #: schedulation_FAX.htDestinatari
 msgid "schedulation_FAX.htDestinatari"
 msgstr "Destinatari"
@@ -22992,7 +22806,6 @@ msgstr "Elimina tutte le code"
 
 # ---------------------------------------
 # form_set_schedule
-
 #: form_set_schedule.titolo
 msgid "form_set_schedule.titolo"
 msgstr "Pianifica invio"
@@ -23067,7 +22880,6 @@ msgstr "Impostare una programmazione che sia almeno 5 minuti avanti all'ora attu
 
 # ---------------------------------------
 # nl_catalog
-
 #: nl_catalog.pageTitle
 msgid "nl_catalog.pageTitle"
 msgstr "Newsletter"
@@ -23098,7 +22910,6 @@ msgstr "Dati della lista non congrui."
 
 # ---------------------------------------
 # validation_full
-
 #: validation_full.dettValidazione
 msgid "validation_full.dettValidazione"
 msgstr "Dettaglio validazione"
@@ -23133,7 +22944,6 @@ msgstr "Indirizzo"
 
 # ---------------------------------------
 # move_validmail
-
 #: move_validmail.titolo
 msgid "move_validmail.titolo"
 msgstr "Spostamento indirizzi"
@@ -23152,7 +22962,6 @@ msgstr "Indirizzi spostati"
 
 # ---------------------------------------
 # listFooter
-
 #: listFooter.tooltipRighe
 msgid "listFooter.tooltipRighe"
 msgstr "Scegli il numero di righe da mostrare"
@@ -23199,7 +23008,6 @@ msgstr "Il valore inserito non è corretto"
 
 # ---------------------------------------
 # time_views_report_data
-
 #: time_views_report_data.mese
 msgid "time_views_report_data.mese"
 msgstr "Mese"
@@ -23226,7 +23034,6 @@ msgstr "Lettori unici"
 
 # ---------------------------------------
 # click_views_report_data
-
 #: click_views_report_data.mese
 msgid "click_views_report_data.mese"
 msgstr "Mese"
@@ -23257,7 +23064,6 @@ msgstr "Link:"
 
 # ---------------------------------------
 # subscriptions_report_data
-
 #: subscriptions_report_data.anno
 msgid "subscriptions_report_data.anno"
 msgstr "Anno"
@@ -23296,7 +23102,6 @@ msgstr "Destinatari"
 
 # ---------------------------------------
 # mesi
-
 #: mesi.gennaio
 msgid "mesi.gennaio"
 msgstr "Gen"
@@ -23347,7 +23152,6 @@ msgstr "Dic"
 
 # ---------------------------------------
 # cumulative_subscriptions_report_data
-
 #: cumulative_subscriptions_report_data.iscrizioni
 msgid "cumulative_subscriptions_report_data.iscrizioni"
 msgstr "Iscrizioni"
@@ -23370,7 +23174,6 @@ msgstr "Totale destinatari"
 
 # ---------------------------------------
 # users_report_data
-
 #: users_report_data.visUtente
 msgid "users_report_data.visUtente"
 msgstr "Aperture per utente"
@@ -23385,7 +23188,6 @@ msgstr "Clic"
 
 # ---------------------------------------
 # overall_report_data
-
 #: overall_report_data.graficoRiasuntivo
 msgid "overall_report_data.graficoRiasuntivo"
 msgstr "Grafico tutti gli invii"
@@ -23420,7 +23222,6 @@ msgstr "Attivi"
 
 # ---------------------------------------
 # form_ins_sms
-
 #: form_ins_sms.lista
 msgid "form_ins_sms.lista"
 msgstr "Lista"
@@ -23655,7 +23456,6 @@ msgstr "(Senza titolo)"
 
 # ---------------------------------------
 # form_upd_sms
-
 #: form_upd_sms.lista
 msgid "form_upd_sms.lista"
 msgstr "Lista"
@@ -23934,7 +23734,6 @@ msgstr "Numero di cellulare"
 
 # ---------------------------------------
 # form_ins_filtro_categoria
-
 #: form_ins_filtro_categoria.nome
 msgid "form_ins_filtro_categoria.nome"
 msgstr "Nome categoria"
@@ -23965,7 +23764,6 @@ msgstr "Esiste già una categoria di filtro con lo stesso nome."
 
 # ---------------------------------------
 # filtro_categoria_list
-
 #: filtro_categoria_list.nuovaCategoria
 msgid "filtro_categoria_list.nuovaCategoria"
 msgstr "Crea nuova"
@@ -24004,7 +23802,6 @@ msgstr "Visualizza Filtri"
 
 # ---------------------------------------
 # form_upd_filtro
-
 #: form_upd_filtro.nome
 msgid "form_upd_filtro.nome"
 msgstr "Nome Filtro"
@@ -24343,7 +24140,6 @@ msgstr "giorni"
 
 # ---------------------------------------
 # user_views_report_filter
-
 #: user_views_report_filter.titolo
 msgid "user_views_report_filter.titolo"
 msgstr "Filtri su aperture"
@@ -24398,7 +24194,6 @@ msgstr "Apri tutti i filtri"
 
 # ---------------------------------------
 # link_tracking_filter
-
 #: link_tracking_filter.lista
 msgid "link_tracking_filter.lista"
 msgstr "Lista"
@@ -24465,7 +24260,6 @@ msgstr "Filtri sui clic"
 
 # ---------------------------------------
 # sub_filter
-
 #: sub_filter.lista
 msgid "sub_filter.lista"
 msgstr "Lista"
@@ -24572,7 +24366,6 @@ msgstr "Data creazione"
 
 # ---------------------------------------
 # form_import_extractor
-
 #: form_import_extractor.lblMostraGruppi
 msgid "form_import_extractor.lblMostraGruppi"
 msgstr "Mostra tutti i gruppi"
@@ -24723,7 +24516,6 @@ msgstr "Si vuole riutilizzare il gruppo già presente?"
 
 # ---------------------------------------
 # do_import_extractor
-
 #: do_import_extractor.importazioneContatti
 msgid "do_import_extractor.importazioneContatti"
 msgstr "Importazione contatti. Attendere prego..."
@@ -24770,7 +24562,6 @@ msgstr "Righe non valide:"
 
 # ---------------------------------------
 # form_import_extractor_SMS
-
 #: form_import_extractor_SMS.lblMostraGruppi
 msgid "form_import_extractor_SMS.lblMostraGruppi"
 msgstr "Mostra tutti i gruppi"
@@ -24921,7 +24712,6 @@ msgstr "Si vuole riutilizzare il gruppo già presente?"
 
 # ---------------------------------------
 # do_import_extractor_SMS
-
 #: do_import_extractor_SMS.importazioneContatti
 msgid "do_import_extractor_SMS.importazioneContatti"
 msgstr "Importazione contatti. Attendere prego..."
@@ -24968,7 +24758,6 @@ msgstr "Righe non valide"
 
 # ---------------------------------------
 # reactivity_report
-
 #: reactivity_report.titolo
 msgid "reactivity_report.titolo"
 msgstr "Reattività"
@@ -25023,21 +24812,18 @@ msgstr "Reattività"
 
 # ---------------------------------------
 # readNewsletter
-
 #: readNewsletter.lblUrl
 msgid "readNewsletter.lblUrl"
 msgstr "Lettura nel browser web"
 
 # ---------------------------------------
 # autoprofile
-
 #: autoprofile.lblAutop
 msgid "autoprofile.lblAutop"
 msgstr "Modulo di autoprofilazione: "
 
 # ---------------------------------------
 # preferencecenter
-
 #: preferencecenter.lblPageTitle
 msgid "preferencecenter.lblPageTitle"
 msgstr "Gestisci il tuo profilo"
@@ -25252,7 +25038,6 @@ msgstr "Siamo spiacenti, si sono verificati degli errori durante la generazione 
 
 # ---------------------------------------
 # donotrack
-
 #: donotrack.msgInsertOK
 msgid "donotrack.msgInsertOK"
 msgstr "Disabilitazione della raccolta dei dati avvenuta con successo"
@@ -25263,7 +25048,6 @@ msgstr "Non è stato possibile effettuare la disabilitazione della raccolta dei 
 
 # ---------------------------------------
 # SendToAFriend
-
 #: SendToAFriend.lblPageTitle
 msgid "SendToAFriend.lblPageTitle"
 msgstr "Invia ad un amico"
@@ -25346,7 +25130,6 @@ msgstr "Impossibile recapitare il messaggio, l'utente ha bloccato questo tipo di
 
 # ---------------------------------------
 # overall_report_export
-
 #: overall_report_export.nomeFile
 msgid "overall_report_export.nomeFile"
 msgstr "graficoRiassuntivo"
@@ -25393,7 +25176,6 @@ msgstr "Lista"
 
 # ---------------------------------------
 # show_message_reports
-
 #: show_message_reports.lblStatus
 msgid "show_message_reports.lblStatus"
 msgstr "Stato"
@@ -25764,7 +25546,6 @@ msgstr "campo data \"Al\" non può essere superiore alla data odierna"
 
 # ---------------------------------------
 # fe_default
-
 #: fe_default.titolo
 msgid "fe_default.titolo"
 msgstr "Iscrizione newsletter"
@@ -25791,7 +25572,6 @@ msgstr "Inserire un indirizzo email valido"
 
 # ---------------------------------------
 # fe_form1
-
 #: fe_form1.lblSubscriptionFormsDisabled
 msgid "fe_form1.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -25854,14 +25634,12 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_listUser
-
 #: fe_listUser.lblNewsletter
 msgid "fe_listUser.lblNewsletter"
 msgstr "Newsletter"
 
 # ---------------------------------------
 # fe_form1FB
-
 #: fe_form1FB.lblSubscriptionFormsDisabled
 msgid "fe_form1FB.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -25924,7 +25702,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_form2
-
 #: fe_form2.lblSubscriptionFormsDisabled
 msgid "fe_form2.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -25991,7 +25768,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_form3
-
 #: fe_form3.lblSubscriptionFormsDisabled
 msgid "fe_form3.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -26054,7 +25830,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_form4
-
 #: fe_form4.lblSubscriptionFormsDisabled
 msgid "fe_form4.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -26117,7 +25892,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_form5
-
 #: fe_form5.lblSubscriptionFormsDisabled
 msgid "fe_form5.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -26176,7 +25950,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_form6
-
 #: fe_form6.lblSubscriptionFormsDisabled
 msgid "fe_form6.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -26239,7 +26012,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # fe_form7
-
 #: fe_form7.lblSubscriptionFormsDisabled
 msgid "fe_form7.lblSubscriptionFormsDisabled"
 msgstr "Moduli di iscrizione disattivati."
@@ -26306,7 +26078,6 @@ msgstr "Newsletter recenti"
 
 # ---------------------------------------
 # users_report_html
-
 #: users_report_html.lista
 msgid "users_report_html.lista"
 msgstr "Lista"
@@ -26409,7 +26180,6 @@ msgstr "Data creazione"
 
 # ---------------------------------------
 # form_gest_permessi
-
 #: form_gest_permessi.NuovoUtente
 msgid "form_gest_permessi.NuovoUtente"
 msgstr "Crea nuovo utente"
@@ -26464,7 +26234,6 @@ msgstr "Password"
 
 # ---------------------------------------
 # form_upd_permessi
-
 #: form_upd_permessi.btSelTutti
 msgid "form_upd_permessi.btSelTutti"
 msgstr "Seleziona tutti"
@@ -26503,7 +26272,6 @@ msgstr "Utente:"
 
 # ---------------------------------------
 # form_modifica_contratto
-
 #: form_modifica_contratto.btAggiorna
 msgid "form_modifica_contratto.btAggiorna"
 msgstr "Aggiorna"
@@ -26514,7 +26282,6 @@ msgstr "Il contratto non può essere modificato"
 
 # ---------------------------------------
 # form_gest_opzioni
-
 #: form_gest_opzioni.btSalva
 msgid "form_gest_opzioni.btSalva"
 msgstr "Salva"
@@ -26581,7 +26348,6 @@ msgstr "Contatta il tuo referente commerciale per l'acquisto"
 
 # ---------------------------------------
 # form_ins_utente
-
 #: form_ins_utente.btSalva
 msgid "form_ins_utente.btSalva"
 msgstr "Salva"
@@ -26700,21 +26466,18 @@ msgstr "Acquista"
 
 # ---------------------------------------
 # noListaSel
-
 #: noListaSel.msg
 msgid "noListaSel.msg"
 msgstr "Nessuna Lista selezionata"
 
 # ---------------------------------------
 # muErrorPage
-
 #: muErrorPage.msg
 msgid "muErrorPage.msg"
 msgstr "Errore nell'applicazione. Ci scusiamo per il malfunzionamento."
 
 # ---------------------------------------
 # start_job
-
 #: start_job.msgStartJob
 msgid "start_job.msgStartJob"
 msgstr "L'invio del messaggio è in corso di attivazione, attendere prego."
@@ -26729,7 +26492,6 @@ msgstr "L'invio del messaggio è in corso di attivazione. Una volta attivato l'i
 
 # ---------------------------------------
 # stop_job
-
 #: stop_job.msgStopJob
 msgid "stop_job.msgStopJob"
 msgstr "L'invio del messaggio è in corso di completamento, si prega di attendere."
@@ -26740,7 +26502,6 @@ msgstr "Si prega di attendere..."
 
 # ---------------------------------------
 # start_job_SMS
-
 #: start_job_SMS.msgStartJob
 msgid "start_job_SMS.msgStartJob"
 msgstr "L'invio dell'SMS è in corso di attivazione, si prega di attendere."
@@ -26751,14 +26512,12 @@ msgstr "Una volta attivato l'invio, sarà possibile uscire dalla console e spegn
 
 # ---------------------------------------
 # stop_job_SMS
-
 #: stop_job_SMS.msgStopJob
 msgid "stop_job_SMS.msgStopJob"
 msgstr "L'invio dell'SMS è in corso di completamento, si prega di attendere."
 
 # ---------------------------------------
 # start_job_FAX
-
 #: start_job_FAX.msgStartJob
 msgid "start_job_FAX.msgStartJob"
 msgstr "L'invio del fax è in corso di attivazione, si prega di attendere."
@@ -26769,14 +26528,12 @@ msgstr "Una volta attivato l'invio, sarà possibile uscire dalla console e spegn
 
 # ---------------------------------------
 # stop_job_FAX
-
 #: stop_job_FAX.msgStopJob
 msgid "stop_job_FAX.msgStopJob"
 msgstr "L'invio del fax è in corso di completamento, si prega di attendere."
 
 # ---------------------------------------
 # uploadFile
-
 #: uploadFile.titolo
 msgid "uploadFile.titolo"
 msgstr "Inserisci/aggiorna file"
@@ -26823,7 +26580,6 @@ msgstr "Selezionare un'immagine"
 
 # ---------------------------------------
 # ctrl_TabellaCosti
-
 #: ctrl_TabellaCosti.htCountry
 msgid "ctrl_TabellaCosti.htCountry"
 msgstr "Paese"
@@ -26838,7 +26594,6 @@ msgstr "SMS inviabili"
 
 # ---------------------------------------
 # reactivity_trend_report
-
 #: reactivity_trend_report.title
 msgid "reactivity_trend_report.title"
 msgstr "PERCENTUALI"
@@ -27033,7 +26788,6 @@ msgstr "Ultimo invio"
 
 # ---------------------------------------
 # reactivity_trend_summary
-
 #: reactivity_trend_summary.title
 msgid "reactivity_trend_summary.title"
 msgstr "PERCENTUALI"
@@ -27248,7 +27002,6 @@ msgstr "Nota:## Cliccando sui valori verrai indirizzato al dettaglio delle stati
 
 # ---------------------------------------
 # form_upload_logo
-
 #: form_upload_logo.caricaFile
 msgid "form_upload_logo.caricaFile"
 msgstr "Carica logo"
@@ -27359,7 +27112,6 @@ msgstr "Si è verificato un errore nell'eliminazione del logo"
 
 # ---------------------------------------
 # form_autoprofile
-
 #: form_autoprofile.lblOpzioniAvanzate
 msgid "form_autoprofile.lblOpzioniAvanzate"
 msgstr "Opzioni avanzate"
@@ -27526,7 +27278,6 @@ msgstr "Invia"
 
 # ---------------------------------------
 # form_autoprofile_list
-
 #: form_autoprofile_list.DescrizioneArchive
 msgid "form_autoprofile_list.DescrizioneArchive"
 msgstr "Per modificare una form, cliccare sulla matita."
@@ -27593,7 +27344,6 @@ msgstr "Crea un invio"
 
 # ---------------------------------------
 # form_autoprofile_msg
-
 #: form_autoprofile_msg.lista
 msgid "form_autoprofile_msg.lista"
 msgstr "Lista"
@@ -27700,7 +27450,6 @@ msgstr "Indica con il tag </b>[msg]</b> la posizione dei tuoi messaggi dinamici.
 
 # ---------------------------------------
 # form_autoprofile_confirm
-
 #: form_autoprofile_confirm.lista
 msgid "form_autoprofile_confirm.lista"
 msgstr "Lista"
@@ -27767,7 +27516,6 @@ msgstr "Salva"
 
 # ---------------------------------------
 # nl_checkup
-
 #: nl_checkup.lblDatiNL
 msgid "nl_checkup.lblDatiNL"
 msgstr "Messaggio email"
@@ -28186,7 +27934,6 @@ msgstr "Formato errato, controlla la sintassi."
 
 # ---------------------------------------
 # nl_SpamCheck
-
 #: nl_SpamCheck.lblIsSpam
 msgid "nl_SpamCheck.lblIsSpam"
 msgstr "Spam:"
@@ -28225,7 +27972,6 @@ msgstr "Errore durante l'operazione di spamcheck. Il servizio potrebbe essere no
 
 # ---------------------------------------
 # form_gest_campi_anag
-
 #: form_gest_campi_anag.lblDefaultValueHeader
 msgid "form_gest_campi_anag.lblDefaultValueHeader"
 msgstr "Valore predefinito"
@@ -28332,7 +28078,6 @@ msgstr "Vuoi eliminare il campo anagrafico?"
 
 # ---------------------------------------
 # form_gest_campi_anag_detail
-
 #: form_gest_campi_anag_detail.lblTitolo
 msgid "form_gest_campi_anag_detail.lblTitolo"
 msgstr "Campi anagrafici"
@@ -28379,7 +28124,6 @@ msgstr "Il nome campo '{0}' è già presente o esiste già come campo di sistema
 
 # ---------------------------------------
 # search_user_lists
-
 #: search_user_lists.filtroEmail
 msgid "search_user_lists.filtroEmail"
 msgstr "Email"
@@ -28458,7 +28202,6 @@ msgstr "Il tuo utente non è abilitato all'uso di questa funzione di ricerca glo
 
 # ---------------------------------------
 # search_user_details
-
 #: search_user_details.titoloIscrittoListe
 msgid "search_user_details.titoloIscrittoListe"
 msgstr "Iscritto nelle liste"
@@ -28493,7 +28236,6 @@ msgstr "Modifica"
 
 # ---------------------------------------
 # sqlfilters
-
 #: sqlfilters.iniziaCon
 msgid "sqlfilters.iniziaCon"
 msgstr "inizia con"
@@ -28608,7 +28350,6 @@ msgstr "dopo il"
 
 # ---------------------------------------
 # contactstype
-
 #: contactstype.InfoTecniche
 msgid "contactstype.InfoTecniche"
 msgstr "Informazioni tecniche"
@@ -28627,7 +28368,6 @@ msgstr "Gestione privacy (sarà mostrato a chi lamenta spam)"
 
 # ---------------------------------------
 # channeldatakeys
-
 #: channeldatakeys.firstname
 msgid "channeldatakeys.firstname"
 msgstr "Nome"
@@ -28666,7 +28406,6 @@ msgstr "Numero messaggi vocali"
 
 # ---------------------------------------
 # messagetype
-
 #: messagetype.idtype-1
 msgid "messagetype.idtype-1"
 msgstr "Tutti"
@@ -28697,7 +28436,6 @@ msgstr "MMS"
 
 # ---------------------------------------
 # form_import_fast
-
 #: form_import_fast.msgErr
 msgid "form_import_fast.msgErr"
 msgstr "Non è stato possibile effettuare l'importazione a causa di un errore."
@@ -28716,7 +28454,6 @@ msgstr "Indietro"
 
 # ---------------------------------------
 # ConversionLab
-
 #: ConversionLab.buttonConfirm
 msgid "ConversionLab.buttonConfirm"
 msgstr "Conferma"
@@ -28747,7 +28484,6 @@ msgstr "Riprova"
 
 # ---------------------------------------
 # eventtype
-
 #: eventtype.subemail
 msgid "eventtype.subemail"
 msgstr "inserimento nell'elenco iscritti email"
@@ -28774,7 +28510,6 @@ msgstr "ultimo aggiornamento (su questa lista)"
 
 # ---------------------------------------
 # datatypeenum
-
 #: datatypeenum.Undefined
 msgid "datatypeenum.Undefined"
 msgstr "Seleziona"
@@ -28817,7 +28552,6 @@ msgstr "Data(yyyy-MM-dd)"
 
 # ---------------------------------------
 # form_triggered_emails
-
 #: form_triggered_emails.labelHeaderTriggeredEmailName
 msgid "form_triggered_emails.labelHeaderTriggeredEmailName"
 msgstr "Nome invio automatico"
@@ -28904,7 +28638,6 @@ msgstr "Sms"
 
 # ---------------------------------------
 # form_triggered_email
-
 #: form_triggered_email.labelTriggeredEmailName
 msgid "form_triggered_email.labelTriggeredEmailName"
 msgstr "Nome"
@@ -29187,7 +28920,6 @@ msgstr "Mittente non corretto.<br>Testo, lunghezza massima 11 caratteri. Non dev
 
 # ---------------------------------------
 # check_triggered_email
-
 #: check_triggered_email.generic_error_message
 msgid "check_triggered_email.generic_error_message"
 msgstr "Attenzione: si è verificato un errore di sistema durante la simulazione. Si prega di contattare il supporto tecnico."
@@ -29238,7 +28970,6 @@ msgstr "Numero"
 
 # ---------------------------------------
 # form_css_whitelabel
-
 #: form_css_whitelabel.btnCaricaDefault
 msgid "form_css_whitelabel.btnCaricaDefault"
 msgstr "Carica CSS predefinito"
@@ -29313,7 +29044,6 @@ msgstr "Operazione di salvataggio conclusa correttamente"
 
 # ---------------------------------------
 # form_frontend_personlization
-
 #: form_frontend_personlization.lblTitoloPagina
 msgid "form_frontend_personlization.lblTitoloPagina"
 msgstr "Personalizza l'aspetto delle tue pagine di frontend"
@@ -29364,7 +29094,6 @@ msgstr "Impossibile salvare il file CSS frontend in quanto contiene caratteri no
 
 # ---------------------------------------
 # used_space_report
-
 #: used_space_report.buttonPrintText
 msgid "used_space_report.buttonPrintText"
 msgstr "Stampa"
@@ -29683,7 +29412,6 @@ msgstr "Selezionare una lista"
 
 # ---------------------------------------
 # optouttypeenum
-
 #: optouttypeenum.Console
 msgid "optouttypeenum.Console"
 msgstr "da amministratore"
@@ -29750,7 +29478,6 @@ msgstr "perché email bloccata (problemi configurazione MTA destinazione)"
 
 # ---------------------------------------
 # optouttypeenumsms
-
 #: optouttypeenumsms.Console
 msgid "optouttypeenumsms.Console"
 msgstr "da amministratore"
@@ -29769,7 +29496,6 @@ msgstr "perché numero errato"
 
 # ---------------------------------------
 # SMS_preview_window
-
 #: SMS_preview_window.labelTitle
 msgid "SMS_preview_window.labelTitle"
 msgstr "Anteprima messaggio"
@@ -29804,7 +29530,6 @@ msgstr "File allegati:"
 
 # ---------------------------------------
 # nl_preview_window
-
 #: nl_preview_window.labelTitle
 msgid "nl_preview_window.labelTitle"
 msgstr "Anteprima messaggio email"
@@ -29839,7 +29564,6 @@ msgstr "Statistiche"
 
 # ---------------------------------------
 # form_gest_rssfeed
-
 #: form_gest_rssfeed.idHeader
 msgid "form_gest_rssfeed.idHeader"
 msgstr "ID"
@@ -29914,7 +29638,6 @@ msgstr "Personalizza modelli email"
 
 # ---------------------------------------
 # form_gest_rssfeed_detail
-
 #: form_gest_rssfeed_detail.lblTitolo
 msgid "form_gest_rssfeed_detail.lblTitolo"
 msgstr "Gestione feed RSS"
@@ -29945,7 +29668,6 @@ msgstr "Campi non impostato correttamente"
 
 # ---------------------------------------
 # form_ins_newsletterRSS
-
 #: form_ins_newsletterRSS.lista
 msgid "form_ins_newsletterRSS.lista"
 msgstr "Lista"
@@ -30140,7 +29862,6 @@ msgstr "Non è stato possibile caricare i seguenti feed RSS:"
 
 # ---------------------------------------
 # positionRSSNews
-
 #: positionRSSNews.position
 msgid "positionRSSNews.position"
 msgstr "posizione"
@@ -30167,7 +29888,6 @@ msgstr "posizionealtre"
 
 # ---------------------------------------
 # contacts_list
-
 #: contacts_list.DescrizioneArchive
 msgid "contacts_list.DescrizioneArchive"
 msgstr "- Per modificare un contatto, cliccare sulla matita.<br>- Per creare un nuovo contatto, cliccare su nuovo."
@@ -30282,7 +30002,6 @@ msgstr "Attenzione! L'eliminazione del contatto non è possibile."
 
 # ---------------------------------------
 # contact_form
-
 #: contact_form.TitleForInsert
 msgid "contact_form.TitleForInsert"
 msgstr "Nuovo contatto amministrativo"
@@ -30361,7 +30080,6 @@ msgstr "Attenzione! Contatto per {0} della console mancante. E' necessario indic
 
 # ---------------------------------------
 # PerfGraphSettings
-
 #: PerfGraphSettings.btSalva
 msgid "PerfGraphSettings.btSalva"
 msgstr "Salva"
@@ -30376,7 +30094,6 @@ msgstr "Mostra messaggi con un numero di invii superiore a"
 
 # ---------------------------------------
 # contacts_confirm_reminder
-
 #: contacts_confirm_reminder.Message
 msgid "contacts_confirm_reminder.Message"
 msgstr "Conferma i tuoi contatti per la ricezione di notifiche importanti. 'Gestione privacy' sarà mostrato a chi lamenta spam."
@@ -30391,7 +30108,6 @@ msgstr "Non adesso"
 
 # ---------------------------------------
 # channel_data_mapping
-
 #: channel_data_mapping.CampoAnagraficoHeader
 msgid "channel_data_mapping.CampoAnagraficoHeader"
 msgstr "Campo anagrafico associato"
@@ -30450,7 +30166,6 @@ msgstr "Campi per invio"
 
 # ---------------------------------------
 # messages_list
-
 #: messages_list.htOggetto
 msgid "messages_list.htOggetto"
 msgstr "Oggetto"
@@ -30565,7 +30280,6 @@ msgstr "Elimina"
 
 # ---------------------------------------
 # message_insert
-
 #: message_insert.oggetto
 msgid "message_insert.oggetto"
 msgstr "Oggetto"
@@ -30856,7 +30570,6 @@ msgstr ": AVS (AviSynth), DCX (Microsoft Visual FoxPro), GIF87, IPTC, MPC, MTV, 
 
 # ---------------------------------------
 # message_edit
-
 #: message_edit.oggetto
 msgid "message_edit.oggetto"
 msgstr "Oggetto"
@@ -31015,7 +30728,6 @@ msgstr "Estensioni ammesse"
 
 # ---------------------------------------
 # message_preview
-
 #: message_preview.DescrizionePreview
 msgid "message_preview.DescrizionePreview"
 msgstr "Il messaggio è stato salvato. È possibile modificarlo nuovamente oppure scegliere i destinatari a cui inviarlo."
@@ -31046,7 +30758,6 @@ msgstr "Elenco allegati"
 
 # ---------------------------------------
 # messages_archive
-
 #: messages_archive.htOggetto
 msgid "messages_archive.htOggetto"
 msgstr "Oggetto"
@@ -31105,7 +30816,6 @@ msgstr "Visualizza solo messaggi:"
 
 # ---------------------------------------
 # form_choose_uns_list
-
 #: form_choose_uns_list.titolo
 msgid "form_choose_uns_list.titolo"
 msgstr "Elenco disiscritti"
@@ -31128,14 +30838,12 @@ msgstr "di tutti i canali"
 
 # ---------------------------------------
 # Dettaglio_Reputazione
-
 #: Dettaglio_Reputazione.lblBtStampa
 msgid "Dettaglio_Reputazione.lblBtStampa"
 msgstr "Stampa"
 
 # ---------------------------------------
 # MyCustomDialog
-
 #: MyCustomDialog.titolo
 msgid "MyCustomDialog.titolo"
 msgstr "Inserimento/modifica link"
@@ -31170,7 +30878,6 @@ msgstr "Nuova finestra (blank)"
 
 # ---------------------------------------
 # SubscriptionForm_Edit
-
 #: SubscriptionForm_Edit.updateYourProfile
 msgid "SubscriptionForm_Edit.updateYourProfile"
 msgstr "Aggiorna i tuoi dati:"
@@ -31341,7 +31048,6 @@ msgstr "* * * A T T E N Z I O N E * * *\n\nSe incolli il codice di questo form i
 
 # ---------------------------------------
 # SubscriptionForm_List
-
 #: SubscriptionForm_List.lblFunzioniCorrelate
 msgid "SubscriptionForm_List.lblFunzioniCorrelate"
 msgstr "Funzioni correlate"
@@ -31440,7 +31146,6 @@ msgstr "Copia URL"
 
 # ---------------------------------------
 # form_email_analysis
-
 #: form_email_analysis.title
 msgid "form_email_analysis.title"
 msgstr "Email Analysis"
@@ -31631,7 +31336,6 @@ msgstr "Non è possibile ricavare ID della console"
 
 # ---------------------------------------
 # share_on
-
 #: share_on.pageTitle
 msgid "share_on.pageTitle"
 msgstr "Condividi sui Social Media"
@@ -31650,7 +31354,6 @@ msgstr "Inserisce nel messaggio le icone (con i link) per condividere la version
 
 # ---------------------------------------
 # ShowMap
-
 #: ShowMap.titolo
 msgid "ShowMap.titolo"
 msgstr "Singolo messaggio"
@@ -31733,7 +31436,6 @@ msgstr "Tutti i paesi"
 
 # ---------------------------------------
 # analysis_comparison
-
 #: analysis_comparison.analizza
 msgid "analysis_comparison.analizza"
 msgstr "Analizza"
@@ -32036,14 +31738,12 @@ msgstr "Clic"
 
 # ---------------------------------------
 # optout_list_note
-
 #: optout_list_note.lblNota
 msgid "optout_list_note.lblNota"
 msgstr "<b>Nota:</b> il totale disiscritti nei vari report statistici comprende solo i disiscritti \"da messaggio (link disiscrizione)\", \"da amministratore e import\", \"non disponibile\". I disiscritti sono automaticamente esclusi da ogni invio."
 
 # ---------------------------------------
 # Form_TimeLapses
-
 #: Form_TimeLapses.titolo
 msgid "Form_TimeLapses.titolo"
 msgstr "Elenco fasce orarie"
@@ -32066,7 +31766,6 @@ msgstr "Il fuso orario di riferimento è GMT +1h: Amsterdam, Berlino, Parigi, Ro
 
 # ---------------------------------------
 # form_noSendRange_SMS
-
 #: form_noSendRange_SMS.titolo
 msgid "form_noSendRange_SMS.titolo"
 msgstr "Imposta fascia di non disturbo"
@@ -32197,7 +31896,6 @@ msgstr "Ora inizio uguale a ora fine"
 
 # ---------------------------------------
 # AggregateReportNew
-
 #: AggregateReportNew.lista
 msgid "AggregateReportNew.lista"
 msgstr "Cerca per lista"
@@ -32352,7 +32050,6 @@ msgstr "<b>Report aggregati:</b>|#\n<br/><br/>\n<b>Punto 1:</b>| Il report viene
 
 # ---------------------------------------
 # AggregateReportList
-
 #: AggregateReportList.lista
 msgid "AggregateReportList.lista"
 msgstr "Mostra report aggregati della lista"
@@ -32543,7 +32240,6 @@ msgstr "Report dettagliato:"
 
 # ---------------------------------------
 # AggregateReportSimpleGraph
-
 #: AggregateReportSimpleGraph.lblReportTitleText
 msgid "AggregateReportSimpleGraph.lblReportTitleText"
 msgstr "Nome report:"
@@ -32778,7 +32474,6 @@ msgstr "Attendere 24 ore dall'invio"
 
 # ---------------------------------------
 # AggregateReportDetailedGraph
-
 #: AggregateReportDetailedGraph.lblReportTitleText
 msgid "AggregateReportDetailedGraph.lblReportTitleText"
 msgstr "Nome report:"
@@ -33097,7 +32792,6 @@ msgstr "Clic"
 
 # ---------------------------------------
 # AggregateReportEdit
-
 #: AggregateReportEdit.lblNewReportName
 msgid "AggregateReportEdit.lblNewReportName"
 msgstr "Nome"
@@ -33156,7 +32850,6 @@ msgstr "Elimina"
 
 # ---------------------------------------
 # AggregateReportCompare
-
 #: AggregateReportCompare.lblNewReportName
 msgid "AggregateReportCompare.lblNewReportName"
 msgstr "Nome"
@@ -33311,7 +33004,6 @@ msgstr "Parametri"
 
 # ---------------------------------------
 # AggregateReportSimpleGraphExport
-
 #: AggregateReportSimpleGraphExport.lblTitleReport
 msgid "AggregateReportSimpleGraphExport.lblTitleReport"
 msgstr "Report aggregato sintetico"
@@ -33398,7 +33090,6 @@ msgstr "Note"
 
 # ---------------------------------------
 # AggregateReportDetailedGraphExport
-
 #: AggregateReportDetailedGraphExport.lblTitleReport
 msgid "AggregateReportDetailedGraphExport.lblTitleReport"
 msgstr "Report aggregato dettagliato"
@@ -33533,7 +33224,6 @@ msgstr "Note"
 
 # ---------------------------------------
 # AggregateReportCompareExport
-
 #: AggregateReportCompareExport.titolo
 msgid "AggregateReportCompareExport.titolo"
 msgstr "Confronto Report Aggregati"
@@ -33628,7 +33318,6 @@ msgstr "Fan: utenti che hanno inoltrato o condiviso il messaggio"
 
 # ---------------------------------------
 # AggregateReportSimpleGraphFrontend
-
 #: AggregateReportSimpleGraphFrontend.titolo
 msgid "AggregateReportSimpleGraphFrontend.titolo"
 msgstr "Report aggregato sintetico"
@@ -33871,7 +33560,6 @@ msgstr "%%value%%%"
 
 # ---------------------------------------
 # AggregateReportDetailedGraphFrontend
-
 #: AggregateReportDetailedGraphFrontend.titolo
 msgid "AggregateReportDetailedGraphFrontend.titolo"
 msgstr "Report aggregato dettagliato"
@@ -34198,7 +33886,6 @@ msgstr "Clic"
 
 # ---------------------------------------
 # PrintHelp
-
 #: PrintHelp.titolo
 msgid "PrintHelp.titolo"
 msgstr "Istruzioni per la stampa"
@@ -34209,7 +33896,6 @@ msgstr "Al fine di stampare correttamente il report si invita cortesemente a <br
 
 # ---------------------------------------
 # CommonLabels
-
 #: CommonLabels.lblFeedback
 msgid "CommonLabels.lblFeedback"
 msgstr "it"
@@ -34492,7 +34178,6 @@ msgstr "Campi obbligatori:"
 
 # ---------------------------------------
 # DeviceReport
-
 #: DeviceReport.lblMessage_ErrorLoadingData
 msgid "DeviceReport.lblMessage_ErrorLoadingData"
 msgstr "Errore caricamento dati."
@@ -34587,7 +34272,6 @@ msgstr "Composizione dispositivi"
 
 # ---------------------------------------
 # form_filtro_device
-
 #: form_filtro_device.lblDescDeviceFilter
 msgid "form_filtro_device.lblDescDeviceFilter"
 msgstr "I filtri per dispositivo consentono di rilevare e organizzare le informazioni sui dispositivi usati dai destinatari per ricevere e leggere le email."
@@ -34622,14 +34306,12 @@ msgstr "Precisione filtri:<br>- bassa: dati dell'ultimo anno<br>- media: dati de
 
 # ---------------------------------------
 # ucStatType
-
 #: ucStatType.lblNewsletter
 msgid "ucStatType.lblNewsletter"
 msgstr "Oggetto:"
 
 # ---------------------------------------
 # HelpAPIViewer
-
 #: HelpAPIViewer.Subject
 msgid "HelpAPIViewer.Subject"
 msgstr "Oggetto"
@@ -34652,7 +34334,6 @@ msgstr "Help non disponibile, riprovare più tardi"
 
 # ---------------------------------------
 # StatsSingleMsgCommon
-
 #: StatsSingleMsgCommon.MsgReport
 msgid "StatsSingleMsgCommon.MsgReport"
 msgstr "Grafico per messaggio"
@@ -34687,7 +34368,6 @@ msgstr "Grafico clic/tempo"
 
 # ---------------------------------------
 # SmtpPlusUserList
-
 #: SmtpPlusUserList.lblCentroNotificheSmtp
 msgid "SmtpPlusUserList.lblCentroNotificheSmtp"
 msgstr "Centro notifiche SMTP+"
@@ -34774,7 +34454,6 @@ msgstr "Dati per la connessione al server"
 
 # ---------------------------------------
 # SmtpPlusUserEdit
-
 #: SmtpPlusUserEdit.lblTitleEdit
 msgid "SmtpPlusUserEdit.lblTitleEdit"
 msgstr "Modifica utente"
@@ -34877,7 +34556,6 @@ msgstr "25, 80, 1025-5000"
 
 # ---------------------------------------
 # SmtpPlusMessages
-
 #: SmtpPlusMessages.btnSave
 msgid "SmtpPlusMessages.btnSave"
 msgstr "Salva"
@@ -34956,7 +34634,6 @@ msgstr "Per aggiungere ad ogni messaggio inviato da utenti SMTP+ di questa Lista
 
 # ---------------------------------------
 # SmtpPlusAggregation
-
 #: SmtpPlusAggregation.lblPeriodAgg
 msgid "SmtpPlusAggregation.lblPeriodAgg"
 msgstr "Aggregazione per periodo"
@@ -35055,7 +34732,6 @@ msgstr "I messaggi inviati tramite SMTP+ sono inseriti nel Lista come normali ne
 
 # ---------------------------------------
 # SmtpPlusCommonLabels
-
 #: SmtpPlusCommonLabels.ddlPriority1
 msgid "SmtpPlusCommonLabels.ddlPriority1"
 msgstr "Molto alta"
@@ -35082,7 +34758,6 @@ msgstr "clicca qui"
 
 # ---------------------------------------
 # AlertCenterSenderEdit
-
 #: AlertCenterSenderEdit.lblTitle
 msgid "AlertCenterSenderEdit.lblTitle"
 msgstr "Mittente delle notifiche"
@@ -35113,7 +34788,6 @@ msgstr "Indirizzo email non corretto"
 
 # ---------------------------------------
 # AlertCenter
-
 #: AlertCenter.lblAdminContacts
 msgid "AlertCenter.lblAdminContacts"
 msgstr "Contatti amministrativi"
@@ -35204,7 +34878,6 @@ msgstr "Invio"
 
 # ---------------------------------------
 # AlertCenterEdit
-
 #: AlertCenterEdit.ddlAlertTypeDefault
 msgid "AlertCenterEdit.ddlAlertTypeDefault"
 msgstr "Scegli un evento per cui generare la notifica"
@@ -35399,7 +35072,6 @@ msgstr "Il tipo di notifica non è corretto"
 
 # ---------------------------------------
 # CopyMoveRecipientsControl
-
 #: CopyMoveRecipientsControl.LabelTitle
 msgid "CopyMoveRecipientsControl.LabelTitle"
 msgstr "Gestisci questi indirizzi"
@@ -35462,7 +35134,6 @@ msgstr "Nessun gruppo"
 
 # ---------------------------------------
 # SmtpPlusQueueList
-
 #: SmtpPlusQueueList.htIdList
 msgid "SmtpPlusQueueList.htIdList"
 msgstr "ID lista"
@@ -35661,7 +35332,6 @@ msgstr "Si è verificato un errore durante l'elaborazione della richiesta"
 
 # ---------------------------------------
 # WebhooksList
-
 #: WebhooksList.lblCreateWebhook
 msgid "WebhooksList.lblCreateWebhook"
 msgstr "Aggiungi nuovo webhook"
@@ -35728,7 +35398,6 @@ msgstr "URL"
 
 # ---------------------------------------
 # WebhooksEdit
-
 #: WebhooksEdit.lblList
 msgid "WebhooksEdit.lblList"
 msgstr "Lista"
@@ -35819,7 +35488,6 @@ msgstr "Parametri webhooks"
 
 # ---------------------------------------
 # UcMailUpEditor
-
 #: UcMailUpEditor.errorGeneric
 msgid "UcMailUpEditor.errorGeneric"
 msgstr "Si è verificato un errore nella visualizzazione dell'editor"
@@ -35834,7 +35502,6 @@ msgstr "Attenzione, specificare la tipologia di path da utilizzare"
 
 # ---------------------------------------
 # UcMailUpAsynUpload
-
 #: UcMailUpAsynUpload.errorGeneric
 msgid "UcMailUpAsynUpload.errorGeneric"
 msgstr "Si è verificato un errore nella visualizzazione della sezione di upload"
@@ -35849,7 +35516,6 @@ msgstr "L'estensione del file non è corretta"
 
 # ---------------------------------------
 # UcMailUpEditorDialogOpener
-
 #: UcMailUpEditorDialogOpener.errorGeneric
 msgid "UcMailUpEditorDialogOpener.errorGeneric"
 msgstr "Si è verificato un errore nella visualizzazione della finestra di dialogo"
@@ -35864,7 +35530,6 @@ msgstr "Si è verificato un errore nel caricamento della configurazione del dial
 
 # ---------------------------------------
 # TagList
-
 #: TagList.lblCreateTag
 msgid "TagList.lblCreateTag"
 msgstr "Aggiungi nuovo tag"
@@ -35923,7 +35588,6 @@ msgstr "Il tag è stato disabilitato correttamente"
 
 # ---------------------------------------
 # TagEdit
-
 #: TagEdit.lblTitleCreateTag
 msgid "TagEdit.lblTitleCreateTag"
 msgstr "Nuovo tag"
@@ -36010,7 +35674,6 @@ msgstr "Il tag è vuoto"
 
 # ---------------------------------------
 # OptionsList
-
 #: OptionsList.OptionGroups_1
 msgid "OptionsList.OptionGroups_1"
 msgstr "Canali"
@@ -36349,14 +36012,12 @@ msgstr "Permetti la gestione dei tag"
 
 # ---------------------------------------
 # t
-
 #: t.Error_Generic
 msgid "t.Error_Generic"
 msgstr "Si é verificato un errore, si prega di riprovare più tardi."
 
 # ---------------------------------------
 # InactiveRecipientsSimulation
-
 #: InactiveRecipientsSimulation.lblTitle
 msgid "InactiveRecipientsSimulation.lblTitle"
 msgstr "Simulazione destinatari inattivi"
@@ -36375,7 +36036,6 @@ msgstr "Disiscrivi i destinatari"
 
 # ---------------------------------------
 # InactiveRecipientsMailEdit
-
 #: InactiveRecipientsMailEdit.lblSubject
 msgid "InactiveRecipientsMailEdit.lblSubject"
 msgstr "Oggetto"
@@ -36394,7 +36054,6 @@ msgstr "Email mittente"
 
 # ---------------------------------------
 # confirmTrustedSender
-
 #: confirmTrustedSender.confirmOk
 msgid "confirmTrustedSender.confirmOk"
 msgstr "L'indirizzo è stato verificato! Puoi ora usarlo come mittente."
@@ -36409,7 +36068,6 @@ msgstr "La richiesta di conferma dell'indirizzo mittente non è valida."
 
 # ---------------------------------------
 # confirmo2m
-
 #: confirmo2m.confirmOk
 msgid "confirmo2m.confirmOk"
 msgstr "L'invio del messaggio è programmato per partire."
@@ -36424,7 +36082,6 @@ msgstr "I parametri non sono corretti."
 
 # ---------------------------------------
 # OneToManySettings
-
 #: OneToManySettings.description
 msgid "OneToManySettings.description"
 msgstr " "
@@ -36587,7 +36244,6 @@ msgstr "Contatto inviato a tutti gli utenti abilitati"
 
 # ---------------------------------------
 # OneToManyUserEdit
-
 #: OneToManyUserEdit.pageTitleNew
 msgid "OneToManyUserEdit.pageTitleNew"
 msgstr "Nuovo utente"
@@ -36662,7 +36318,6 @@ msgstr "Attenzione! Se togli la verifica dell'invio, ti consigliamo di mandare m
 
 # ---------------------------------------
 # EmailOnAcidCheckup
-
 #: EmailOnAcidCheckup.genericErrorMessage
 msgid "EmailOnAcidCheckup.genericErrorMessage"
 msgstr "Si è verificato un errore durante l'elaborazione della richiesta"
@@ -36681,7 +36336,6 @@ msgstr "Messaggio di prova"
 
 # ---------------------------------------
 # DevGestioneIntegrazioni
-
 #: DevGestioneIntegrazioni.DevResources
 msgid "DevGestioneIntegrazioni.DevResources"
 msgstr "Risorse"
@@ -36876,7 +36530,6 @@ msgstr "Vuoi sviluppare un'integrazione con MailUp? Qui puoi ottenere le chiavi 
 
 # ---------------------------------------
 # form_sms_alias
-
 #: form_sms_alias.lblTitle
 msgid "form_sms_alias.lblTitle"
 msgstr "Gestione anagrafiche mittenti SMS alfanumerici"
@@ -36999,7 +36652,6 @@ msgstr "Condividi questa anagrafica con:"
 
 # ---------------------------------------
 # form_sms_alias_detail
-
 #: form_sms_alias_detail.lblAnagrafica
 msgid "form_sms_alias_detail.lblAnagrafica"
 msgstr "Dati anagrafici"
@@ -37170,7 +36822,6 @@ msgstr "Accettando non sarà possibile annullare la richiesta di registrazione."
 
 # ---------------------------------------
 # form_share_sms_alias
-
 #: form_share_sms_alias.lblAliasList
 msgid "form_share_sms_alias.lblAliasList"
 msgstr "Mittenti: "
@@ -37193,7 +36844,6 @@ msgstr "Ragione sociale"
 
 # ---------------------------------------
 # login
-
 #: login.riepilogo
 msgid "login.riepilogo"
 msgstr "<h4>Si sono verificati i seguenti errori:</h4>"
@@ -37276,7 +36926,6 @@ msgstr "L'ho dimenticato"
 
 # ---------------------------------------
 # AccessDenied
-
 #: AccessDenied.labelTitolo
 msgid "AccessDenied.labelTitolo"
 msgstr "Ops! C'è stato un problema."
@@ -37291,7 +36940,6 @@ msgstr "Contatta l'amministrazione di sistema per maggiori informazioni."
 
 # ---------------------------------------
 # TemplateCategory
-
 #: TemplateCategory.T000
 msgid "TemplateCategory.T000"
 msgstr "Personalizzato"
@@ -37306,7 +36954,6 @@ msgstr "RSS"
 
 # ---------------------------------------
 # TemplateLayout
-
 #: TemplateLayout.L000
 msgid "TemplateLayout.L000"
 msgstr "Personalizzato"
@@ -37353,7 +37000,6 @@ msgstr "Altri"
 
 # ---------------------------------------
 # TemplateColor
-
 #: TemplateColor.C000
 msgid "TemplateColor.C000"
 msgstr "Personalizzato"
@@ -37417,4 +37063,3 @@ msgstr "Antracite"
 #: TemplateColor.C015
 msgid "TemplateColor.C015"
 msgstr "Sabbia"
-
